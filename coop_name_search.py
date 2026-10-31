@@ -37,7 +37,7 @@ from sklearn.ensemble import GradientBoostingClassifier, RandomForestClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import (accuracy_score, f1_score, precision_score,
-                             recall_score, roc_auc_score, roc_curve)
+                              recall_score, roc_auc_score, roc_curve)
 from sklearn.model_selection import GroupKFold, GroupShuffleSplit
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
@@ -53,7 +53,7 @@ mapinduzi kazi tegemeo faraja ujamaa harambee mwanga pamoja chemchem msingi nuru
 wakulima wafugaji wavuvi wanawake vijana mkombozi kilele mlima bonde ziwa mto jua
 kijiji kijani zawadi hazina tunu azimio sifa ridhaa shukrani amka songa mbele""".split()
 OTHER_KINDS = ["Dairy", "Fishing", "Women", "Youth", "Livestock", "Housing", "Transport",
-               "Irrigation", "Mining", "Consumer"]
+                "Irrigation", "Mining", "Consumer"]
 DEFAULT_CROPS = ["Coffee", "Cotton", "Cashew", "Tea", "Tobacco", "Sisal", "Maize", "Sesame"]
 
 
@@ -213,7 +213,36 @@ def evidence(row: pd.Series) -> str:
 
 # --------------------------------------------------------------------------- synthetic register
 def load_inputs(master, regional):
-    reg = pd.read_csv(regional)
+    reg_path = Path(regional)
+    if not reg_path.exists():
+        fallback = pd.DataFrame([
+            {"region": "Arusha", "cooperatives_total_jun2025": 18000, "saccos_registered_dec2023": 3000},
+            {"region": "Dar es Salaam", "cooperatives_total_jun2025": 22000, "saccos_registered_dec2023": 3700},
+            {"region": "Dodoma", "cooperatives_total_jun2025": 17000, "saccos_registered_dec2023": 2700},
+            {"region": "Geita", "cooperatives_total_jun2025": 14000, "saccos_registered_dec2023": 2100},
+            {"region": "Iringa", "cooperatives_total_jun2025": 16000, "saccos_registered_dec2023": 2500},
+            {"region": "Kagera", "cooperatives_total_jun2025": 17000, "saccos_registered_dec2023": 2800},
+            {"region": "Kigoma", "cooperatives_total_jun2025": 15000, "saccos_registered_dec2023": 2300},
+            {"region": "Kilimanjaro", "cooperatives_total_jun2025": 15500, "saccos_registered_dec2023": 2400},
+            {"region": "Lindi", "cooperatives_total_jun2025": 11000, "saccos_registered_dec2023": 1700},
+            {"region": "Manyara", "cooperatives_total_jun2025": 14000, "saccos_registered_dec2023": 2200},
+            {"region": "Mbeya", "cooperatives_total_jun2025": 20000, "saccos_registered_dec2023": 3300},
+            {"region": "Morogoro", "cooperatives_total_jun2025": 19000, "saccos_registered_dec2023": 2900},
+            {"region": "Mtwara", "cooperatives_total_jun2025": 13000, "saccos_registered_dec2023": 2000},
+            {"region": "Mwanza", "cooperatives_total_jun2025": 19000, "saccos_registered_dec2023": 3100},
+            {"region": "Njombe", "cooperatives_total_jun2025": 12000, "saccos_registered_dec2023": 1800},
+            {"region": "Pwani", "cooperatives_total_jun2025": 13000, "saccos_registered_dec2023": 2000},
+            {"region": "Rukwa", "cooperatives_total_jun2025": 9000, "saccos_registered_dec2023": 1400},
+            {"region": "Ruvuma", "cooperatives_total_jun2025": 12000, "saccos_registered_dec2023": 1900},
+            {"region": "Shinyanga", "cooperatives_total_jun2025": 15000, "saccos_registered_dec2023": 2300},
+            {"region": "Tabora", "cooperatives_total_jun2025": 14000, "saccos_registered_dec2023": 2100},
+            {"region": "Tanga", "cooperatives_total_jun2025": 16000, "saccos_registered_dec2023": 2600},
+            {"region": "Zanzibar", "cooperatives_total_jun2025": 10000, "saccos_registered_dec2023": 1500},
+        ])
+        print(f"[warn] regional stats file not found: {reg_path}; using built-in fallback")
+        return fallback, DEFAULT_CROPS
+
+    reg = pd.read_csv(reg_path)
     reg = reg.dropna(subset=["cooperatives_total_jun2025"]).copy()
     reg["sacco_share"] = (reg["saccos_registered_dec2023"] / reg["cooperatives_total_jun2025"]).clip(0.03, 0.6)
     crops = DEFAULT_CROPS
@@ -354,7 +383,7 @@ class NameSearch:
         out["match_prob"] = p
         out["tfidf_cosine"] = sims[cand]
         out["band"] = np.where(p >= BAND_LIKELY, "LIKELY DUPLICATE - officer to confirm",
-                      np.where(p >= BAND_REVIEW, "REVIEW QUEUE", "unlikely"))
+                       np.where(p >= BAND_REVIEW, "REVIEW QUEUE", "unlikely"))
         out["evidence"] = [evidence(r) for _, r in X.iterrows()]
         return out.sort_values("match_prob", ascending=False).head(top).reset_index(drop=True)
 
@@ -402,8 +431,7 @@ def train(args):
     else:
         register = make_register(reg_stats, crops, args.scale, rng)
         register.to_csv(OUT / "register_synthetic.csv", index=False)
-        print(f"Synthetic register from CSV statistics: {len(register)} cooperatives, "
-              f"{register.region.nunique()} regions, crops={crops}")
+        print(f"Synthetic register from CSV statistics: {len(register)} cooperatives, {register.region.nunique()} regions, crops={crops}")
 
     vec = TfidfVectorizer(analyzer="char_wb", ngram_range=(2, 4), sublinear_tf=True)
     vec.fit([normalize(x) for x in register.name])
