@@ -50,20 +50,70 @@ def pending_names_path() -> Path:
     return OUT / "pending_new_names.csv"
 
 
-def append_pending_name(name: str, region: str = "", source: str = "search") -> None:
+def canonical_pending_columns() -> list:
+    return [
+        "coop_id", "name", "region", "ctype", "source", "status",
+        "added_at", "reviewed_at", "officer_decision", "notes",
+    ]
+
+
+def append_pending_name(name: str, region: str = "", source: str = "search", notes: str = "") -> None:
     path = pending_names_path()
-    row = {
-        "added_at": datetime.now().isoformat(timespec="seconds"),
-        "source": source,
-        "name": name.strip(),
-        "region": region,
-        "status": "pending_review",
-    }
-    existing = pd.read_csv(path) if path.exists() else pd.DataFrame()
-    if not existing.empty and ((existing["name"].astype(str).str.strip().str.lower() == row["name"].lower()) &
-                               (existing["region"].fillna("").astype(str).str.strip().str.lower() == row["region"].lower())).any():
+    clean_name = str(name).strip()
+    if not clean_name:
         return
-    pd.DataFrame([row]).to_csv(path, mode="a", header=not path.exists(), index=False)
+    region_clean = str(region or "").strip()
+    row = {
+        "coop_id": f"P{datetime.now().strftime('%Y%m%d%H%M%S')}",
+        "name": clean_name,
+        "region": region_clean,
+        "ctype": core.coop_type(core.normalize(clean_name)),
+        "source": source,
+        "status": "pending_review",
+        "added_at": datetime.now().isoformat(timespec="seconds"),
+        "reviewed_at": "",
+        "officer_decision": "",
+        "notes": notes,
+    }
+
+    if path.exists():
+        existing = pd.read_csv(path)
+        if not existing.empty:
+            same = (existing["name"].astype(str).str.strip().str.lower() == clean_name.lower()) & \
+                   (existing["region"].fillna("").astype(str).str.strip().str.lower() == region_clean.lower())
+            if same.any():
+                return
+    else:
+        existing = pd.DataFrame(columns=canonical_pending_columns())
+
+    out = pd.concat([existing, pd.DataFrame([row])], ignore_index=True)
+    out = out.reindex(columns=canonical_pending_columns())
+    out.to_csv(path, index=False)
+
+
+def load_training_register(uploaded_df: pd.DataFrame | None = None) -> pd.DataFrame:
+    frames = []
+    if uploaded_df is not None:
+        frames.append(uploaded_df.copy())
+
+    pending = read_csv_safe("pending_new_names.csv")
+    if pending is not None and not pending.empty:
+        frames.append(pending[[c for c in ["name", "region", "ctype"] if c in pending.columns]].copy())
+
+    if not frames:
+        return pd.DataFrame(columns=["name", "region", "ctype"])
+
+    combined = pd.concat(frames, ignore_index=True)
+    combined = combined.rename(columns={c: c.strip().lower() for c in combined.columns})
+    if "name" not in combined.columns:
+        return pd.DataFrame(columns=["name", "region", "ctype"])
+    combined["name"] = combined["name"].astype(str).str.strip()
+    combined["region"] = combined.get("region", "").fillna("").astype(str).str.strip()
+    combined = combined.dropna(subset=["name"]).drop_duplicates(subset=["name", "region"], keep="last")
+    combined["ctype"] = combined.get("ctype", "").fillna("").astype(str).str.strip()
+    combined["ctype"] = combined["ctype"].replace({"": [core.coop_type(core.normalize(n)) for n in combined["name"]]})
+    combined.insert(0, "coop_id", [f"C{i:05d}" for i in range(len(combined))])
+    return combined
 
 
 def show_headline(res: pd.DataFrame):
@@ -134,9 +184,9 @@ if page == "Search":
         show_headline(res)
         results_table(res)
         if res.iloc[0].match_prob < core.BAND_REVIEW:
-            if st.button("➕ Add this cooperative to local pending register"):
+            if st.button("➕ Add this cooperative to training dataset"):
                 append_pending_name(q, region, source="search")
-                st.success(f"Saved '{q}' to the local pending register.")
+                st.success(f"Saved '{q}' to the training dataset queue.")
         picks = st.multiselect("Send to review queue", res.coop_id.tolist(),
                                format_func=lambda i: f"{i} · {res.set_index('coop_id').loc[i, 'name']}")
         if st.button("Add selected to review queue", disabled=not picks):
@@ -159,9 +209,9 @@ elif page == "Check a proposed name":
         show_headline(res)
         results_table(res)
         if res.iloc[0].match_prob < core.BAND_REVIEW:
-            if st.button("➕ Add this cooperative to local pending register"):
+            if st.button("➕ Add this cooperative to training dataset"):
                 append_pending_name(name, "" if region == "(not given)" else region, source="proposed_name")
-                st.success(f"Saved '{name}' to the local pending register.")
+                st.success(f"Saved '{name}' to the training dataset queue.")
         st.caption("Names that differ only by spelling, spacing, abbreviation or word order are treated as close.")
 
 # ----------------------------------------------------------------------------- Review queue
@@ -222,7 +272,7 @@ elif page == "Dashboard":
     b.bar_chart(d.ctype.value_counts())
 
     if pending is not None and not pending.empty:
-        st.subheader("Pending new cooperatives")
+        st.subheader("Pending training additions")
         st.dataframe(pending, hide_index=True, width="stretch")
 
     if scan is not None and not scan.empty:
@@ -289,9 +339,26 @@ elif page == "Data & retrain":
             st.info("Registers above 4,000 names are subsampled for *training*; search still covers all names.")
         reg_path = HERE / "uploaded_register.csv"
         df.to_csv(reg_path, index=False)
+
+    pending = read_csv_safe("pending_new_names.csv")
+    if pending is not None and not pending.empty:
+        st.info(f"{len(pending)} pending company names are included in the next training run.")
+
     if st.button("🚀 Train", type="primary", disabled=(up is None and not use_synth)):
+        train_df = None
+        if up is not None:
+            train_df = pd.read_csv(reg_path)
+        pending = read_csv_safe("pending_new_names.csv")
+        if pending is not None and not pending.empty:
+            train_df = pd.concat([train_df, pending[[c for c in ["name", "region", "ctype"] if c in pending.columns]].copy()], ignore_index=True)
+            train_df = train_df.dropna(subset=["name"]).drop_duplicates(subset=["name", "region"], keep="last")
+            if "ctype" not in train_df.columns:
+                train_df["ctype"] = [core.coop_type(core.normalize(n)) for n in train_df["name"]]
+            train_df.insert(0, "coop_id", [f"C{i:05d}" for i in range(len(train_df))])
+            train_df.to_csv(HERE / "uploaded_register.csv", index=False)
         args = SimpleNamespace(master=None, regional=str(HERE / "data" / "tanzania_ushirika_regional_analysis.csv"),
-                               register=str(reg_path) if up is not None else None, scale=0.25)
+                               register=str(HERE / "uploaded_register.csv" if (up is not None or pending is not None) else reg_path) if not use_synth else None,
+                               scale=0.25)
         buf = io.StringIO()
         with st.spinner("Training three models with cross-validation (1-3 minutes)..."), contextlib.redirect_stdout(buf):
             core.train(args)
@@ -347,259 +414,5 @@ Similarity is evidence, not proof of identity. Nothing here merges, deletes or a
 
 # The file above was rewritten to include a local pending-additions feature for names not found in the register.
 # This allows an officer to save a candidate new cooperative name without automatically inserting it into the main register.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 """
