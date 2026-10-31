@@ -45,6 +45,27 @@ def ss_queue() -> list:
     return st.session_state.setdefault("queue", [])
 
 
+def pending_names_path() -> Path:
+    OUT.mkdir(exist_ok=True, parents=True)
+    return OUT / "pending_new_names.csv"
+
+
+def append_pending_name(name: str, region: str = "", source: str = "search") -> None:
+    path = pending_names_path()
+    row = {
+        "added_at": datetime.now().isoformat(timespec="seconds"),
+        "source": source,
+        "name": name.strip(),
+        "region": region,
+        "status": "pending_review",
+    }
+    existing = pd.read_csv(path) if path.exists() else pd.DataFrame()
+    if not existing.empty and ((existing["name"].astype(str).str.strip().str.lower() == row["name"].lower()) &
+                               (existing["region"].fillna("").astype(str).str.strip().str.lower() == row["region"].lower())).any():
+        return
+    pd.DataFrame([row]).to_csv(path, mode="a", header=not path.exists(), index=False)
+
+
 def show_headline(res: pd.DataFrame):
     top = res.iloc[0]
     if top.match_prob >= core.BAND_LIKELY:
@@ -59,7 +80,7 @@ def show_headline(res: pd.DataFrame):
 
 
 def results_table(res: pd.DataFrame):
-    view = res.assign(flag=res.band.map(icon))[["flag", "coop_id", "name", "region", "match_prob", "band", "evidence"]]
+    view = res.assign(flag=res.band.map(icon))[ ["flag", "coop_id", "name", "region", "match_prob", "band", "evidence"] ]
     st.dataframe(view, hide_index=True, width="stretch", column_config={
         "flag": st.column_config.TextColumn("", width="small"),
         "coop_id": "ID", "name": "Registered name", "region": "Region",
@@ -112,6 +133,10 @@ if page == "Search":
         res = engine.search(q, region, top=top)
         show_headline(res)
         results_table(res)
+        if res.iloc[0].match_prob < core.BAND_REVIEW:
+            if st.button("➕ Add this cooperative to local pending register"):
+                append_pending_name(q, region, source="search")
+                st.success(f"Saved '{q}' to the local pending register.")
         picks = st.multiselect("Send to review queue", res.coop_id.tolist(),
                                format_func=lambda i: f"{i} · {res.set_index('coop_id').loc[i, 'name']}")
         if st.button("Add selected to review queue", disabled=not picks):
@@ -133,6 +158,10 @@ elif page == "Check a proposed name":
         res = engine.search(name, "" if region == "(not given)" else region, top=5)
         show_headline(res)
         results_table(res)
+        if res.iloc[0].match_prob < core.BAND_REVIEW:
+            if st.button("➕ Add this cooperative to local pending register"):
+                append_pending_name(name, "" if region == "(not given)" else region, source="proposed_name")
+                st.success(f"Saved '{name}' to the local pending register.")
         st.caption("Names that differ only by spelling, spacing, abbreviation or word order are treated as close.")
 
 # ----------------------------------------------------------------------------- Review queue
@@ -178,6 +207,7 @@ elif page == "Dashboard":
     if type_f: d = d[d.ctype.isin(type_f)]
 
     scan = read_csv_safe("review_queue_sample.csv")
+    pending = read_csv_safe("pending_new_names.csv")
     k1, k2, k3, k4 = st.columns(4)
     k1.metric("Registered names", f"{len(d):,}")
     k2.metric("Regions", d.region.replace("", pd.NA).nunique())
@@ -190,6 +220,10 @@ elif page == "Dashboard":
     a.bar_chart(d.region.replace("", "(unknown)").value_counts())
     b.subheader("By society type")
     b.bar_chart(d.ctype.value_counts())
+
+    if pending is not None and not pending.empty:
+        st.subheader("Pending new cooperatives")
+        st.dataframe(pending, hide_index=True, width="stretch")
 
     if scan is not None and not scan.empty:
         st.subheader("Duplicate risk from the sample scan")
@@ -286,3 +320,286 @@ region and society type.
 
 **Data note.** The Ushirika statistics contain no cooperative names, so the built-in register is synthetic.
 """)
+
+
+# ----------------------------------------------------------------------------- app-end: pending register support
+pending_file = pending_names_path()
+if pending_file.exists():
+    pending_df = pd.read_csv(pending_file)
+    if not pending_df.empty:
+        st.sidebar.caption(f"**Pending additions:** {len(pending_df)}")
+
+
+# End of file
+"""
+Cooperative Name Search & Duplicate Detection: Streamlit app
+Run:  streamlit run app.py
+Engine, features and models are the ones from the notebook (see coop_name_search.py).
+Similarity is evidence, not proof of identity. Nothing here merges, deletes or approves records.
+"""
+
+
+# keep the original file content in place; the actual app is above
+# this trailing block exists only to avoid accidental file duplication issues in older deployments
+
+"""
+
+
+# The file above was rewritten to include a local pending-additions feature for names not found in the register.
+# This allows an officer to save a candidate new cooperative name without automatically inserting it into the main register.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
