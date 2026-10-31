@@ -1,0 +1,1997 @@
+coop_id,name,region,ctype
+C00000,Mlima Zawadi SACCOS Ltd,Arusha,saccos
+C00001,Heshima Ushindi Tobacco AMCOS Ltd,Arusha,amcos
+C00002,Wafugaji Harambee SACCOS Ltd,Arusha,saccos
+C00003,Neema Nuru Pyrethrum AMCOS Ltd,Arusha,amcos
+C00004,Imani Maize AMCOS Ltd,Arusha,amcos
+C00005,Heshima SACCOS Ltd,Arusha,saccos
+C00006,Songa Sifa SACCOS Ltd,Arusha,saccos
+C00007,Harambee Mshikamano SACCOS Ltd,Arusha,saccos
+C00008,Hazina Neema SACCOS Ltd,Arusha,saccos
+C00009,Mapinduzi Sugarcane AMCOS Ltd,Arusha,amcos
+C00010,Upendo SACCOS Ltd,Arusha,saccos
+C00011,Tegemeo Mavuno Consumer Cooperative Society Ltd,Arusha,other
+C00012,Mbele Soybeans AMCOS Ltd,Arusha,amcos
+C00013,Baraka Heshima Chick Peas AMCOS Ltd,Arusha,amcos
+C00014,Amka Ushindi SACCOS Ltd,Arusha,saccos
+C00015,Pamoja SACCOS Ltd,Arusha,saccos
+C00016,Kazi Soybeans AMCOS Ltd,Arusha,amcos
+C00017,Mto Cocoa AMCOS Ltd,Arusha,amcos
+C00018,Wafugaji SACCOS Ltd,Arusha,saccos
+C00019,Tegemeo Mlima Coffee AMCOS Ltd,Arusha,amcos
+C00020,Mto Tunu Coffee AMCOS Ltd,Arusha,amcos
+C00021,Ridhaa Bidii SACCOS Ltd,Arusha,saccos
+C00022,Baraka Wanawake Housing Cooperative Society Ltd,Arusha,other
+C00023,Furaha SACCOS Ltd,Arusha,saccos
+C00024,Bonde SACCOS Ltd,Arusha,saccos
+C00025,Subira SACCOS Ltd,Arusha,saccos
+C00026,Zawadi Transport Cooperative Society Ltd,Arusha,other
+C00027,Kazi Jitegemee SACCOS Ltd,Arusha,saccos
+C00028,Neema Women Cooperative Society Ltd,Arusha,other
+C00029,Mlima Mto SACCOS Ltd,Arusha,saccos
+C00030,Baraka Pigeon Peas AMCOS Ltd,Arusha,amcos
+C00031,Wakulima Wavuvi Dairy Cooperative Society Ltd,Arusha,other
+C00032,Mto Pyrethrum AMCOS Ltd,Arusha,amcos
+C00033,Hazina Bonde SACCOS Ltd,Arusha,saccos
+C00034,Mavuno SACCOS Ltd,Arusha,saccos
+C00035,Kijani SACCOS Ltd,Arusha,saccos
+C00036,Nuru SACCOS Ltd,Arusha,saccos
+C00037,Ushindi SACCOS Ltd,Arusha,saccos
+C00038,Mlima SACCOS Ltd,Arusha,saccos
+C00039,Kazi SACCOS Ltd,Arusha,saccos
+C00040,Tunu Consumer Cooperative Society Ltd,Arusha,other
+C00041,Bidii SACCOS Ltd,Arusha,saccos
+C00042,Kazi Livestock Cooperative Society Ltd,Arusha,other
+C00043,Subira Mbele SACCOS Ltd,Arusha,saccos
+C00044,Neema Msingi Sugarcane AMCOS Ltd,Arusha,amcos
+C00045,Chemchem SACCOS Ltd,Arusha,saccos
+C00046,Wakulima SACCOS Ltd,Arusha,saccos
+C00047,Furaha Soybeans AMCOS Ltd,Arusha,amcos
+C00048,Imani SACCOS Ltd,Arusha,saccos
+C00049,Ziwa SACCOS Ltd,Arusha,saccos
+C00050,Baraka Vijana SACCOS Ltd,Arusha,saccos
+C00051,Vijana Baraka Cashew AMCOS Ltd,Arusha,amcos
+C00052,Heshima Upendo Fishing Cooperative Society Ltd,Arusha,other
+C00053,Nuru Ziwa SACCOS Ltd,Arusha,saccos
+C00054,Wafugaji Mbele Pigeon Peas AMCOS Ltd,Arusha,amcos
+C00055,Subira Coffee AMCOS Ltd,Arusha,amcos
+C00056,Ushindi Harambee SACCOS Ltd,Arusha,saccos
+C00057,Ujamaa Sisal AMCOS Ltd,Arusha,amcos
+C00058,Faraja Fishing Cooperative Society Ltd,Dar es Salaam,other
+C00059,Subira Wafugaji Maize AMCOS Ltd,Dar es Salaam,amcos
+C00060,Mwangaza Subira Fishing Cooperative Society Ltd,Dar es Salaam,other
+C00061,Mwanga Fishing Cooperative Society Ltd,Dar es Salaam,other
+C00062,Tumaini Cashew AMCOS Ltd,Dar es Salaam,amcos
+C00063,Ujamaa SACCOS Ltd,Dar es Salaam,saccos
+C00064,Faraja SACCOS Ltd,Dar es Salaam,saccos
+C00065,Umoja SACCOS Ltd,Dar es Salaam,saccos
+C00066,Azimio SACCOS Ltd,Dar es Salaam,saccos
+C00067,Jua Mining Cooperative Society Ltd,Dar es Salaam,other
+C00068,Mavuno Tumaini Pyrethrum AMCOS Ltd,Dar es Salaam,amcos
+C00069,Tumaini SACCOS Ltd,Dar es Salaam,saccos
+C00070,Vijana Mining Cooperative Society Ltd,Dar es Salaam,other
+C00071,Uhuru Nuru SACCOS Ltd,Dar es Salaam,saccos
+C00072,Mwangaza Baraka Coffee AMCOS Ltd,Dar es Salaam,amcos
+C00073,Faraja Mbele Sesame AMCOS Ltd,Dar es Salaam,amcos
+C00074,Mkombozi Neema SACCOS Ltd,Dar es Salaam,saccos
+C00075,Vijana SACCOS Ltd,Dar es Salaam,saccos
+C00076,Nguvu Kijiji SACCOS Ltd,Dar es Salaam,saccos
+C00077,Nguvu Cotton AMCOS Ltd,Dar es Salaam,amcos
+C00078,Pamoja Hazina Dairy Cooperative Society Ltd,Dar es Salaam,other
+C00079,Pamoja Chick Peas AMCOS Ltd,Dar es Salaam,amcos
+C00080,Baraka Cocoa AMCOS Ltd,Dar es Salaam,amcos
+C00081,Mapinduzi Housing Cooperative Society Ltd,Dar es Salaam,other
+C00082,Mavuno Shukrani Cotton AMCOS Ltd,Dar es Salaam,amcos
+C00083,Kilele Mining Cooperative Society Ltd,Dar es Salaam,other
+C00084,Umoja Tobacco AMCOS Ltd,Dar es Salaam,amcos
+C00085,Ziwa Mbele SACCOS Ltd,Dar es Salaam,saccos
+C00086,Maendeleo Cocoa AMCOS Ltd,Dar es Salaam,amcos
+C00087,Kilimo Furaha Coffee AMCOS Ltd,Dar es Salaam,amcos
+C00088,Mto SACCOS Ltd,Dar es Salaam,saccos
+C00089,Msingi Amka SACCOS Ltd,Dar es Salaam,saccos
+C00090,Umoja Jitegemee Cotton AMCOS Ltd,Dar es Salaam,amcos
+C00091,Uhuru Maize AMCOS Ltd,Dar es Salaam,amcos
+C00092,Wavuvi Baraka Women Cooperative Society Ltd,Dar es Salaam,other
+C00093,Wafugaji Kazi Cocoa AMCOS Ltd,Dar es Salaam,amcos
+C00094,Harambee Tafara SACCOS Ltd,Dar es Salaam,saccos
+C00095,Mapinduzi Subira Green Gram AMCOS Ltd,Dar es Salaam,amcos
+C00096,Zawadi Subira Women Cooperative Society Ltd,Dar es Salaam,other
+C00097,Mbele SACCOS Ltd,Dar es Salaam,saccos
+C00098,Juhudi SACCOS Ltd,Dar es Salaam,saccos
+C00099,Ziwa Livestock Cooperative Society Ltd,Dar es Salaam,other
+C00100,Uhuru SACCOS Ltd,Dar es Salaam,saccos
+C00101,Songa Chemchem SACCOS Ltd,Dar es Salaam,saccos
+C00102,Ridhaa SACCOS Ltd,Dar es Salaam,saccos
+C00103,Amani SACCOS Ltd,Dar es Salaam,saccos
+C00104,Kilimo Livestock Cooperative Society Ltd,Dar es Salaam,other
+C00105,Mapinduzi SACCOS Ltd,Dar es Salaam,saccos
+C00106,Shukrani Fishing Cooperative Society Ltd,Dar es Salaam,other
+C00107,Nguvu Mkombozi Soybeans AMCOS Ltd,Dar es Salaam,amcos
+C00108,Azimio Mkombozi Fishing Cooperative Society Ltd,Dar es Salaam,other
+C00109,Tegemeo SACCOS Ltd,Dar es Salaam,saccos
+C00110,Sifa Soybeans AMCOS Ltd,Dar es Salaam,amcos
+C00111,Zawadi SACCOS Ltd,Dar es Salaam,saccos
+C00112,Baraka Consumer Cooperative Society Ltd,Dar es Salaam,other
+C00113,Tafara Green Gram AMCOS Ltd,Dar es Salaam,amcos
+C00114,Faraja Coffee AMCOS Ltd,Dar es Salaam,amcos
+C00115,Zawadi Cotton AMCOS Ltd,Dar es Salaam,amcos
+C00116,Mavuno Azimio Sisal AMCOS Ltd,Dar es Salaam,amcos
+C00117,Bidii Coffee AMCOS Ltd,Dar es Salaam,amcos
+C00118,Nuru Women Cooperative Society Ltd,Dar es Salaam,other
+C00119,Ziwa Nuru Sesame AMCOS Ltd,Dar es Salaam,amcos
+C00120,Juhudi Hazina SACCOS Ltd,Dar es Salaam,saccos
+C00121,Tafara Imani SACCOS Ltd,Dar es Salaam,saccos
+C00122,Upendo Chemchem Sugarcane AMCOS Ltd,Dar es Salaam,amcos
+C00123,Faraja Bonde Tobacco AMCOS Ltd,Dar es Salaam,amcos
+C00124,Hazina Transport Cooperative Society Ltd,Dar es Salaam,other
+C00125,Heshima Jua Cashew AMCOS Ltd,Dar es Salaam,amcos
+C00126,Wavuvi Amka SACCOS Ltd,Dar es Salaam,saccos
+C00127,Jitegemee Pyrethrum AMCOS Ltd,Dar es Salaam,amcos
+C00128,Mkombozi Hazina Consumer Cooperative Society Ltd,Dar es Salaam,other
+C00129,Ridhaa Tea AMCOS Ltd,Dar es Salaam,amcos
+C00130,Wavuvi SACCOS Ltd,Dar es Salaam,saccos
+C00131,Songa SACCOS Ltd,Dar es Salaam,saccos
+C00132,Tunu Cotton AMCOS Ltd,Dar es Salaam,amcos
+C00133,Mwanga Mavuno SACCOS Ltd,Dar es Salaam,saccos
+C00134,Juhudi Wafugaji SACCOS Ltd,Dar es Salaam,saccos
+C00135,Mshikamano Jua SACCOS Ltd,Dar es Salaam,saccos
+C00136,Furaha Ujamaa SACCOS Ltd,Dar es Salaam,saccos
+C00137,Ujamaa Soybeans AMCOS Ltd,Dar es Salaam,amcos
+C00138,Amani Maize AMCOS Ltd,Dar es Salaam,amcos
+C00139,Chemchem Mapinduzi SACCOS Ltd,Dar es Salaam,saccos
+C00140,Tegemeo Transport Cooperative Society Ltd,Dar es Salaam,other
+C00141,Wafugaji Sesame AMCOS Ltd,Dar es Salaam,amcos
+C00142,Msingi Juhudi Sugarcane AMCOS Ltd,Dar es Salaam,amcos
+C00143,Faraja Women Cooperative Society Ltd,Dar es Salaam,other
+C00144,Kilele Consumer Cooperative Society Ltd,Dar es Salaam,other
+C00145,Wanawake SACCOS Ltd,Dar es Salaam,saccos
+C00146,Harambee Pamoja SACCOS Ltd,Dar es Salaam,saccos
+C00147,Nguvu SACCOS Ltd,Dar es Salaam,saccos
+C00148,Bidii Mbele SACCOS Ltd,Dar es Salaam,saccos
+C00149,Hazina SACCOS Ltd,Dar es Salaam,saccos
+C00150,Shukrani Amani Cashew AMCOS Ltd,Dar es Salaam,amcos
+C00151,Mapinduzi Baraka Dairy Cooperative Society Ltd,Dar es Salaam,other
+C00152,Hazina Subira SACCOS Ltd,Dar es Salaam,saccos
+C00153,Chemchem Coffee AMCOS Ltd,Dar es Salaam,amcos
+C00154,Pamoja Cocoa AMCOS Ltd,Dar es Salaam,amcos
+C00155,Mkombozi Chick Peas AMCOS Ltd,Dar es Salaam,amcos
+C00156,Tunu Fishing Cooperative Society Ltd,Dar es Salaam,other
+C00157,Vijana Tafara Tobacco AMCOS Ltd,Dar es Salaam,amcos
+C00158,Tegemeo Chick Peas AMCOS Ltd,Dar es Salaam,amcos
+C00159,Vijana Chick Peas AMCOS Ltd,Dar es Salaam,amcos
+C00160,Jua Consumer Cooperative Society Ltd,Dar es Salaam,other
+C00161,Sifa Wanawake Housing Cooperative Society Ltd,Dar es Salaam,other
+C00162,Kazi Women Cooperative Society Ltd,Dar es Salaam,other
+C00163,Harambee Wakulima Livestock Cooperative Society Ltd,Dar es Salaam,other
+C00164,Kilele Pigeon Peas AMCOS Ltd,Dar es Salaam,amcos
+C00165,Pamoja Cotton AMCOS Ltd,Dar es Salaam,amcos
+C00166,Bidii Fishing Cooperative Society Ltd,Dar es Salaam,other
+C00167,Kilimo SACCOS Ltd,Dar es Salaam,saccos
+C00168,Pamoja Green Gram AMCOS Ltd,Dar es Salaam,amcos
+C00169,Msingi Sifa SACCOS Ltd,Dar es Salaam,saccos
+C00170,Kilimo Cotton AMCOS Ltd,Dar es Salaam,amcos
+C00171,Wavuvi Imani SACCOS Ltd,Dar es Salaam,saccos
+C00172,Kijani Coffee AMCOS Ltd,Dar es Salaam,amcos
+C00173,Jua Pigeon Peas AMCOS Ltd,Dar es Salaam,amcos
+C00174,Azimio Mavuno SACCOS Ltd,Dar es Salaam,saccos
+C00175,Jua Ziwa Pigeon Peas AMCOS Ltd,Dar es Salaam,amcos
+C00176,Pamoja Nguvu SACCOS Ltd,Dar es Salaam,saccos
+C00177,Kijani Maendeleo Sugarcane AMCOS Ltd,Dar es Salaam,amcos
+C00178,Jua Furaha Cotton AMCOS Ltd,Dar es Salaam,amcos
+C00179,Kijani Sesame AMCOS Ltd,Dar es Salaam,amcos
+C00180,Mavuno Livestock Cooperative Society Ltd,Dar es Salaam,other
+C00181,Kijiji SACCOS Ltd,Dar es Salaam,saccos
+C00182,Tumaini Cocoa AMCOS Ltd,Dar es Salaam,amcos
+C00183,Mlima Tea AMCOS Ltd,Dar es Salaam,amcos
+C00184,Umoja Pigeon Peas AMCOS Ltd,Dar es Salaam,amcos
+C00185,Juhudi Tumaini SACCOS Ltd,Dar es Salaam,saccos
+C00186,Songa Transport Cooperative Society Ltd,Dar es Salaam,other
+C00187,Msingi Mlima Cocoa AMCOS Ltd,Dar es Salaam,amcos
+C00188,Mshikamano Fishing Cooperative Society Ltd,Dar es Salaam,other
+C00189,Subira Hazina SACCOS Ltd,Dar es Salaam,saccos
+C00190,Mkombozi SACCOS Ltd,Dar es Salaam,saccos
+C00191,Wakulima Livestock Cooperative Society Ltd,Dar es Salaam,other
+C00192,Wanawake Soybeans AMCOS Ltd,Dar es Salaam,amcos
+C00193,Furaha Neema SACCOS Ltd,Dar es Salaam,saccos
+C00194,Mwangaza SACCOS Ltd,Dar es Salaam,saccos
+C00195,Ujamaa Cotton AMCOS Ltd,Dar es Salaam,amcos
+C00196,Upendo Kijiji SACCOS Ltd,Dar es Salaam,saccos
+C00197,Songa Tobacco AMCOS Ltd,Dar es Salaam,amcos
+C00198,Nguvu Sisal AMCOS Ltd,Dar es Salaam,amcos
+C00199,Sifa SACCOS Ltd,Dar es Salaam,saccos
+C00200,Wafugaji Mshikamano Women Cooperative Society Ltd,Dar es Salaam,other
+C00201,Baraka Azimio SACCOS Ltd,Dar es Salaam,saccos
+C00202,Zawadi Irrigation Cooperative Society Ltd,Dar es Salaam,other
+C00203,Maendeleo SACCOS Ltd,Dar es Salaam,saccos
+C00204,Faraja Pigeon Peas AMCOS Ltd,Dar es Salaam,amcos
+C00205,Mwanga Upendo Housing Cooperative Society Ltd,Dar es Salaam,other
+C00206,Mto Cashew AMCOS Ltd,Dar es Salaam,amcos
+C00207,Wakulima Women Cooperative Society Ltd,Dar es Salaam,other
+C00208,Vijana Fishing Cooperative Society Ltd,Dar es Salaam,other
+C00209,Chemchem Juhudi SACCOS Ltd,Dar es Salaam,saccos
+C00210,Jua Maize AMCOS Ltd,Dar es Salaam,amcos
+C00211,Neema Bidii SACCOS Ltd,Dar es Salaam,saccos
+C00212,Tunu Cashew AMCOS Ltd,Dar es Salaam,amcos
+C00213,Ziwa Cashew AMCOS Ltd,Dar es Salaam,amcos
+C00214,Imani Pigeon Peas AMCOS Ltd,Dar es Salaam,amcos
+C00215,Kilimo Irrigation Cooperative Society Ltd,Dar es Salaam,other
+C00216,Uhuru Umoja Chick Peas AMCOS Ltd,Dar es Salaam,amcos
+C00217,Heshima Irrigation Cooperative Society Ltd,Dar es Salaam,other
+C00218,Kijiji Kijiji SACCOS Ltd,Dar es Salaam,saccos
+C00219,Shukrani Pigeon Peas AMCOS Ltd,Dar es Salaam,amcos
+C00220,Wavuvi Imani Mining Cooperative Society Ltd,Dar es Salaam,other
+C00221,Zawadi Livestock Cooperative Society Ltd,Dar es Salaam,other
+C00222,Tunu SACCOS Ltd,Dar es Salaam,saccos
+C00223,Azimio Livestock Cooperative Society Ltd,Dar es Salaam,other
+C00224,Kijani Vijana Sisal AMCOS Ltd,Dar es Salaam,amcos
+C00225,Msingi Pigeon Peas AMCOS Ltd,Dar es Salaam,amcos
+C00226,Mapinduzi Hazina Pigeon Peas AMCOS Ltd,Dar es Salaam,amcos
+C00227,Bidii Youth Cooperative Society Ltd,Dodoma,other
+C00228,Wanawake Transport Cooperative Society Ltd,Dodoma,other
+C00229,Tegemeo Tea AMCOS Ltd,Dodoma,amcos
+C00230,Bonde Cashew AMCOS Ltd,Dodoma,amcos
+C00231,Jitegemee Tea AMCOS Ltd,Dodoma,amcos
+C00232,Ushindi Pyrethrum AMCOS Ltd,Dodoma,amcos
+C00233,Pamoja Mshikamano Sisal AMCOS Ltd,Dodoma,amcos
+C00234,Mshikamano Azimio Housing Cooperative Society Ltd,Dodoma,other
+C00235,Kilele Tea AMCOS Ltd,Dodoma,amcos
+C00236,Juhudi Transport Cooperative Society Ltd,Dodoma,other
+C00237,Bidii Irrigation Cooperative Society Ltd,Dodoma,other
+C00238,Songa Coffee AMCOS Ltd,Dodoma,amcos
+C00239,Heshima Chick Peas AMCOS Ltd,Dodoma,amcos
+C00240,Hazina Irrigation Cooperative Society Ltd,Dodoma,other
+C00241,Uhuru Dairy Cooperative Society Ltd,Dodoma,other
+C00242,Ujamaa Women Cooperative Society Ltd,Dodoma,other
+C00243,Mwangaza Songa Sisal AMCOS Ltd,Dodoma,amcos
+C00244,Pamoja Sisal AMCOS Ltd,Dodoma,amcos
+C00245,Umoja Cotton AMCOS Ltd,Dodoma,amcos
+C00246,Harambee Cotton AMCOS Ltd,Dodoma,amcos
+C00247,Imani Fishing Cooperative Society Ltd,Dodoma,other
+C00248,Subira Cotton AMCOS Ltd,Dodoma,amcos
+C00249,Jua Shukrani Cotton AMCOS Ltd,Dodoma,amcos
+C00250,Umoja Soybeans AMCOS Ltd,Dodoma,amcos
+C00251,Tumaini Livestock Cooperative Society Ltd,Dodoma,other
+C00252,Tunu Green Gram AMCOS Ltd,Dodoma,amcos
+C00253,Heshima Sisal AMCOS Ltd,Dodoma,amcos
+C00254,Hazina Tea AMCOS Ltd,Dodoma,amcos
+C00255,Jitegemee Dairy Cooperative Society Ltd,Dodoma,other
+C00256,Tafara SACCOS Ltd,Dodoma,saccos
+C00257,Mavuno Ujamaa SACCOS Ltd,Dodoma,saccos
+C00258,Jitegemee Housing Cooperative Society Ltd,Dodoma,other
+C00259,Uhuru Ridhaa Livestock Cooperative Society Ltd,Dodoma,other
+C00260,Baraka Heshima Transport Cooperative Society Ltd,Dodoma,other
+C00261,Amka Sugarcane AMCOS Ltd,Dodoma,amcos
+C00262,Faraja Wafugaji SACCOS Ltd,Dodoma,saccos
+C00263,Kazi Sesame AMCOS Ltd,Dodoma,amcos
+C00264,Tegemeo Fishing Cooperative Society Ltd,Dodoma,other
+C00265,Mto Amani Pyrethrum AMCOS Ltd,Dodoma,amcos
+C00266,Baraka Soybeans AMCOS Ltd,Dodoma,amcos
+C00267,Tafara Cashew AMCOS Ltd,Geita,amcos
+C00268,Upendo Msingi Coffee AMCOS Ltd,Geita,amcos
+C00269,Mbele Green Gram AMCOS Ltd,Geita,amcos
+C00270,Ziwa Mining Cooperative Society Ltd,Geita,other
+C00271,Ujamaa Transport Cooperative Society Ltd,Geita,other
+C00272,Bonde Msingi Cotton AMCOS Ltd,Geita,amcos
+C00273,Upendo Pigeon Peas AMCOS Ltd,Geita,amcos
+C00274,Subira Sisal AMCOS Ltd,Geita,amcos
+C00275,Kazi Housing Cooperative Society Ltd,Geita,other
+C00276,Tumaini Chick Peas AMCOS Ltd,Geita,amcos
+C00277,Amka Coffee AMCOS Ltd,Geita,amcos
+C00278,Bonde Dairy Cooperative Society Ltd,Geita,other
+C00279,Azimio Jitegemee Youth Cooperative Society Ltd,Geita,other
+C00280,Baraka Sesame AMCOS Ltd,Geita,amcos
+C00281,Furaha Sugarcane AMCOS Ltd,Geita,amcos
+C00282,Mshikamano Cotton AMCOS Ltd,Geita,amcos
+C00283,Amka Mining Cooperative Society Ltd,Geita,other
+C00284,Nguvu Tea AMCOS Ltd,Geita,amcos
+C00285,Amani Mapinduzi Youth Cooperative Society Ltd,Geita,other
+C00286,Vijana Mwangaza Cocoa AMCOS Ltd,Geita,amcos
+C00287,Zawadi Chick Peas AMCOS Ltd,Geita,amcos
+C00288,Chemchem Sesame AMCOS Ltd,Geita,amcos
+C00289,Ushindi Sesame AMCOS Ltd,Geita,amcos
+C00290,Upendo Mining Cooperative Society Ltd,Geita,other
+C00291,Tafara Dairy Cooperative Society Ltd,Geita,other
+C00292,Chemchem Chick Peas AMCOS Ltd,Geita,amcos
+C00293,Msingi Tobacco AMCOS Ltd,Geita,amcos
+C00294,Neema Mshikamano Cotton AMCOS Ltd,Geita,amcos
+C00295,Kilele Green Gram AMCOS Ltd,Geita,amcos
+C00296,Tegemeo Pigeon Peas AMCOS Ltd,Geita,amcos
+C00297,Nuru Soybeans AMCOS Ltd,Geita,amcos
+C00298,Maendeleo Mining Cooperative Society Ltd,Geita,other
+C00299,Kijani Tobacco AMCOS Ltd,Geita,amcos
+C00300,Heshima Transport Cooperative Society Ltd,Geita,other
+C00301,Ujamaa Green Gram AMCOS Ltd,Geita,amcos
+C00302,Ziwa Mshikamano Irrigation Cooperative Society Ltd,Geita,other
+C00303,Baraka Neema Chick Peas AMCOS Ltd,Geita,amcos
+C00304,Zawadi Mining Cooperative Society Ltd,Geita,other
+C00305,Tumaini Green Gram AMCOS Ltd,Geita,amcos
+C00306,Ziwa Mapinduzi Transport Cooperative Society Ltd,Geita,other
+C00307,Songa Cotton AMCOS Ltd,Geita,amcos
+C00308,Mkombozi Ushindi Coffee AMCOS Ltd,Geita,amcos
+C00309,Mshikamano Chick Peas AMCOS Ltd,Geita,amcos
+C00310,Kilimo Mining Cooperative Society Ltd,Geita,other
+C00311,Tunu Sisal AMCOS Ltd,Geita,amcos
+C00312,Wavuvi Ziwa Livestock Cooperative Society Ltd,Geita,other
+C00313,Amani Jua Housing Cooperative Society Ltd,Geita,other
+C00314,Mapinduzi Songa Sisal AMCOS Ltd,Geita,amcos
+C00315,Faraja Zawadi Dairy Cooperative Society Ltd,Geita,other
+C00316,Neema Maize AMCOS Ltd,Geita,amcos
+C00317,Pamoja Kazi Green Gram AMCOS Ltd,Geita,amcos
+C00318,Tunu Tobacco AMCOS Ltd,Geita,amcos
+C00319,Tumaini Hazina Sisal AMCOS Ltd,Geita,amcos
+C00320,Neema Ziwa Sesame AMCOS Ltd,Geita,amcos
+C00321,Mwanga Pyrethrum AMCOS Ltd,Geita,amcos
+C00322,Maendeleo Maendeleo Sisal AMCOS Ltd,Geita,amcos
+C00323,Vijana Dairy Cooperative Society Ltd,Geita,other
+C00324,Heshima Cashew AMCOS Ltd,Geita,amcos
+C00325,Furaha Furaha Livestock Cooperative Society Ltd,Geita,other
+C00326,Mavuno Umoja Maize AMCOS Ltd,Geita,amcos
+C00327,Mwangaza Wafugaji Mining Cooperative Society Ltd,Geita,other
+C00328,Wavuvi Fishing Cooperative Society Ltd,Geita,other
+C00329,Amani Green Gram AMCOS Ltd,Geita,amcos
+C00330,Wanawake Sisal AMCOS Ltd,Geita,amcos
+C00331,Ujamaa Faraja SACCOS Ltd,Geita,saccos
+C00332,Bidii Kilele Soybeans AMCOS Ltd,Geita,amcos
+C00333,Kazi Amka Maize AMCOS Ltd,Geita,amcos
+C00334,Vijana Tea AMCOS Ltd,Geita,amcos
+C00335,Tafara Sugarcane AMCOS Ltd,Geita,amcos
+C00336,Uhuru Mlima Pyrethrum AMCOS Ltd,Geita,amcos
+C00337,Imani Soybeans AMCOS Ltd,Geita,amcos
+C00338,Ridhaa Chick Peas AMCOS Ltd,Geita,amcos
+C00339,Mshikamano Mwangaza Sugarcane AMCOS Ltd,Geita,amcos
+C00340,Hazina Sugarcane AMCOS Ltd,Geita,amcos
+C00341,Mlima Consumer Cooperative Society Ltd,Geita,other
+C00342,Mwanga Consumer Cooperative Society Ltd,Geita,other
+C00343,Bidii Women Cooperative Society Ltd,Geita,other
+C00344,Mwanga Mwanga Livestock Cooperative Society Ltd,Geita,other
+C00345,Vijana Nuru Pigeon Peas AMCOS Ltd,Geita,amcos
+C00346,Mwanga Kazi Fishing Cooperative Society Ltd,Geita,other
+C00347,Bonde Consumer Cooperative Society Ltd,Geita,other
+C00348,Mkombozi Pyrethrum AMCOS Ltd,Geita,amcos
+C00349,Sifa Sesame AMCOS Ltd,Geita,amcos
+C00350,Chemchem Irrigation Cooperative Society Ltd,Geita,other
+C00351,Ushindi Fishing Cooperative Society Ltd,Geita,other
+C00352,Kijiji Pyrethrum AMCOS Ltd,Geita,amcos
+C00353,Kilele Kazi Transport Cooperative Society Ltd,Geita,other
+C00354,Ujamaa Dairy Cooperative Society Ltd,Geita,other
+C00355,Azimio Green Gram AMCOS Ltd,Geita,amcos
+C00356,Ushindi Cotton AMCOS Ltd,Geita,amcos
+C00357,Kijani Consumer Cooperative Society Ltd,Geita,other
+C00358,Songa Neema Cocoa AMCOS Ltd,Geita,amcos
+C00359,Mapinduzi Bonde Transport Cooperative Society Ltd,Geita,other
+C00360,Jitegemee Livestock Cooperative Society Ltd,Geita,other
+C00361,Wavuvi Women Cooperative Society Ltd,Geita,other
+C00362,Neema Green Gram AMCOS Ltd,Geita,amcos
+C00363,Amani Coffee AMCOS Ltd,Geita,amcos
+C00364,Juhudi Coffee AMCOS Ltd,Geita,amcos
+C00365,Jitegemee Mavuno Fishing Cooperative Society Ltd,Geita,other
+C00366,Nuru Mining Cooperative Society Ltd,Geita,other
+C00367,Upendo Consumer Cooperative Society Ltd,Geita,other
+C00368,Jitegemee Cocoa AMCOS Ltd,Geita,amcos
+C00369,Shukrani Women Cooperative Society Ltd,Geita,other
+C00370,Kijani Sisal AMCOS Ltd,Geita,amcos
+C00371,Kijani Mwanga Sugarcane AMCOS Ltd,Geita,amcos
+C00372,Zawadi Coffee AMCOS Ltd,Geita,amcos
+C00373,Tafara Youth Cooperative Society Ltd,Geita,other
+C00374,Kazi Pigeon Peas AMCOS Ltd,Geita,amcos
+C00375,Pamoja Mining Cooperative Society Ltd,Geita,other
+C00376,Wakulima Coffee AMCOS Ltd,Geita,amcos
+C00377,Sifa Dairy Cooperative Society Ltd,Geita,other
+C00378,Bonde Tobacco AMCOS Ltd,Geita,amcos
+C00379,Ushindi Chick Peas AMCOS Ltd,Geita,amcos
+C00380,Mavuno Uhuru Tobacco AMCOS Ltd,Geita,amcos
+C00381,Nuru Harambee Tobacco AMCOS Ltd,Geita,amcos
+C00382,Heshima Dairy Cooperative Society Ltd,Geita,other
+C00383,Ujamaa Nuru Maize AMCOS Ltd,Geita,amcos
+C00384,Neema SACCOS Ltd,Geita,saccos
+C00385,Ushindi Women Cooperative Society Ltd,Geita,other
+C00386,Jitegemee Shukrani Tea AMCOS Ltd,Geita,amcos
+C00387,Jitegemee Sesame AMCOS Ltd,Geita,amcos
+C00388,Mkombozi Cotton AMCOS Ltd,Geita,amcos
+C00389,Subira Tumaini Sisal AMCOS Ltd,Geita,amcos
+C00390,Azimio Tea AMCOS Ltd,Geita,amcos
+C00391,Msingi SACCOS Ltd,Geita,saccos
+C00392,Nuru Livestock Cooperative Society Ltd,Geita,other
+C00393,Harambee Mapinduzi Maize AMCOS Ltd,Geita,amcos
+C00394,Mwangaza Green Gram AMCOS Ltd,Geita,amcos
+C00395,Baraka Sugarcane AMCOS Ltd,Geita,amcos
+C00396,Nuru Pigeon Peas AMCOS Ltd,Geita,amcos
+C00397,Upendo Livestock Cooperative Society Ltd,Geita,other
+C00398,Zawadi Azimio Coffee AMCOS Ltd,Geita,amcos
+C00399,Zawadi Green Gram AMCOS Ltd,Geita,amcos
+C00400,Wafugaji Bonde Sugarcane AMCOS Ltd,Geita,amcos
+C00401,Mto Women Cooperative Society Ltd,Geita,other
+C00402,Sifa Kijiji Irrigation Cooperative Society Ltd,Geita,other
+C00403,Upendo Upendo Dairy Cooperative Society Ltd,Geita,other
+C00404,Bidii Tea AMCOS Ltd,Geita,amcos
+C00405,Bonde Mapinduzi Dairy Cooperative Society Ltd,Geita,other
+C00406,Songa Sugarcane AMCOS Ltd,Geita,amcos
+C00407,Tegemeo Mwangaza Pigeon Peas AMCOS Ltd,Geita,amcos
+C00408,Kazi Sugarcane AMCOS Ltd,Geita,amcos
+C00409,Neema Sesame AMCOS Ltd,Geita,amcos
+C00410,Ridhaa Mavuno Chick Peas AMCOS Ltd,Geita,amcos
+C00411,Bidii Sesame AMCOS Ltd,Geita,amcos
+C00412,Kijiji Housing Cooperative Society Ltd,Geita,other
+C00413,Mwanga Songa Consumer Cooperative Society Ltd,Iringa,other
+C00414,Harambee Azimio Fishing Cooperative Society Ltd,Iringa,other
+C00415,Ziwa Sugarcane AMCOS Ltd,Iringa,amcos
+C00416,Zawadi Women Cooperative Society Ltd,Iringa,other
+C00417,Amka Dairy Cooperative Society Ltd,Iringa,other
+C00418,Jitegemee Tunu Green Gram AMCOS Ltd,Iringa,amcos
+C00419,Mshikamano Housing Cooperative Society Ltd,Iringa,other
+C00420,Kazi Coffee AMCOS Ltd,Iringa,amcos
+C00421,Maendeleo Mwangaza Maize AMCOS Ltd,Iringa,amcos
+C00422,Wavuvi Tunu Pigeon Peas AMCOS Ltd,Iringa,amcos
+C00423,Furaha Tobacco AMCOS Ltd,Iringa,amcos
+C00424,Msingi Jitegemee Irrigation Cooperative Society Ltd,Iringa,other
+C00425,Mwangaza Chick Peas AMCOS Ltd,Iringa,amcos
+C00426,Sifa Housing Cooperative Society Ltd,Iringa,other
+C00427,Ziwa Baraka Cotton AMCOS Ltd,Iringa,amcos
+C00428,Tafara Women Cooperative Society Ltd,Iringa,other
+C00429,Msingi Wavuvi Pigeon Peas AMCOS Ltd,Iringa,amcos
+C00430,Mbele Tafara Soybeans AMCOS Ltd,Iringa,amcos
+C00431,Kijani Maize AMCOS Ltd,Iringa,amcos
+C00432,Bidii Sisal AMCOS Ltd,Iringa,amcos
+C00433,Wakulima Mbele Mining Cooperative Society Ltd,Iringa,other
+C00434,Mlima Women Cooperative Society Ltd,Iringa,other
+C00435,Harambee Fishing Cooperative Society Ltd,Iringa,other
+C00436,Wakulima Uhuru SACCOS Ltd,Iringa,saccos
+C00437,Kijiji Wakulima Fishing Cooperative Society Ltd,Iringa,other
+C00438,Nguvu Wavuvi Sisal AMCOS Ltd,Iringa,amcos
+C00439,Bonde Vijana SACCOS Ltd,Iringa,saccos
+C00440,Ziwa Housing Cooperative Society Ltd,Iringa,other
+C00441,Shukrani SACCOS Ltd,Iringa,saccos
+C00442,Songa Upendo Consumer Cooperative Society Ltd,Iringa,other
+C00443,Nguvu Transport Cooperative Society Ltd,Iringa,other
+C00444,Kilele Sisal AMCOS Ltd,Iringa,amcos
+C00445,Wafugaji Tafara Sugarcane AMCOS Ltd,Iringa,amcos
+C00446,Sifa Chick Peas AMCOS Ltd,Iringa,amcos
+C00447,Jua Mwanga Pigeon Peas AMCOS Ltd,Iringa,amcos
+C00448,Furaha Mshikamano Soybeans AMCOS Ltd,Iringa,amcos
+C00449,Bidii Transport Cooperative Society Ltd,Iringa,other
+C00450,Jitegemee Chick Peas AMCOS Ltd,Iringa,amcos
+C00451,Bidii Maendeleo Coffee AMCOS Ltd,Iringa,amcos
+C00452,Mshikamano Mavuno Consumer Cooperative Society Ltd,Iringa,other
+C00453,Ujamaa Songa Housing Cooperative Society Ltd,Iringa,other
+C00454,Uhuru Pigeon Peas AMCOS Ltd,Iringa,amcos
+C00455,Mbele Amani SACCOS Ltd,Iringa,saccos
+C00456,Faraja Youth Cooperative Society Ltd,Iringa,other
+C00457,Msingi Irrigation Cooperative Society Ltd,Iringa,other
+C00458,Mavuno Transport Cooperative Society Ltd,Iringa,other
+C00459,Jitegemee Transport Cooperative Society Ltd,Iringa,other
+C00460,Kazi Tumaini Coffee AMCOS Ltd,Iringa,amcos
+C00461,Nuru Tea AMCOS Ltd,Kagera,amcos
+C00462,Kilele SACCOS Ltd,Kagera,saccos
+C00463,Ushindi Housing Cooperative Society Ltd,Kagera,other
+C00464,Wavuvi Youth Cooperative Society Ltd,Kagera,other
+C00465,Mkombozi Cashew AMCOS Ltd,Kagera,amcos
+C00466,Upendo Juhudi Mining Cooperative Society Ltd,Kagera,other
+C00467,Pamoja Nuru Tobacco AMCOS Ltd,Kagera,amcos
+C00468,Kilele Faraja Livestock Cooperative Society Ltd,Kagera,other
+C00469,Vijana Shukrani Pigeon Peas AMCOS Ltd,Kagera,amcos
+C00470,Kijiji Cashew AMCOS Ltd,Kagera,amcos
+C00471,Kazi Maendeleo Consumer Cooperative Society Ltd,Kagera,other
+C00472,Mkombozi Consumer Cooperative Society Ltd,Kagera,other
+C00473,Wanawake Tumaini Cocoa AMCOS Ltd,Kagera,amcos
+C00474,Wakulima Tea AMCOS Ltd,Kagera,amcos
+C00475,Tegemeo Mto Sesame AMCOS Ltd,Kagera,amcos
+C00476,Jua Amani Maize AMCOS Ltd,Kagera,amcos
+C00477,Mshikamano Pyrethrum AMCOS Ltd,Kagera,amcos
+C00478,Tunu Tea AMCOS Ltd,Kagera,amcos
+C00479,Furaha Irrigation Cooperative Society Ltd,Kagera,other
+C00480,Wakulima Irrigation Cooperative Society Ltd,Kagera,other
+C00481,Wafugaji Mapinduzi Livestock Cooperative Society Ltd,Kagera,other
+C00482,Kilele Livestock Cooperative Society Ltd,Kagera,other
+C00483,Wavuvi Tafara Youth Cooperative Society Ltd,Kagera,other
+C00484,Jua Green Gram AMCOS Ltd,Kagera,amcos
+C00485,Wavuvi Livestock Cooperative Society Ltd,Kagera,other
+C00486,Mavuno Mto Tobacco AMCOS Ltd,Kagera,amcos
+C00487,Mavuno Kijiji SACCOS Ltd,Kagera,saccos
+C00488,Mwanga Youth Cooperative Society Ltd,Kagera,other
+C00489,Imani Pyrethrum AMCOS Ltd,Kagera,amcos
+C00490,Jua Ushindi Sesame AMCOS Ltd,Kagera,amcos
+C00491,Subira Ziwa Youth Cooperative Society Ltd,Kagera,other
+C00492,Mlima Ushindi Soybeans AMCOS Ltd,Kagera,amcos
+C00493,Chemchem Tunu Pyrethrum AMCOS Ltd,Kagera,amcos
+C00494,Uhuru Irrigation Cooperative Society Ltd,Kagera,other
+C00495,Chemchem Livestock Cooperative Society Ltd,Kagera,other
+C00496,Bidii Tumaini Fishing Cooperative Society Ltd,Kagera,other
+C00497,Bonde Soybeans AMCOS Ltd,Kagera,amcos
+C00498,Amka Women Cooperative Society Ltd,Kagera,other
+C00499,Ujamaa Tobacco AMCOS Ltd,Kagera,amcos
+C00500,Mwangaza Livestock Cooperative Society Ltd,Kagera,other
+C00501,Mbele Tafara Chick Peas AMCOS Ltd,Kagera,amcos
+C00502,Juhudi Bonde Pigeon Peas AMCOS Ltd,Kagera,amcos
+C00503,Mbele Irrigation Cooperative Society Ltd,Kagera,other
+C00504,Kilimo Maendeleo Soybeans AMCOS Ltd,Kagera,amcos
+C00505,Pamoja Dairy Cooperative Society Ltd,Kagera,other
+C00506,Zawadi Mavuno Sugarcane AMCOS Ltd,Kagera,amcos
+C00507,Imani Amka Maize AMCOS Ltd,Kagera,amcos
+C00508,Ridhaa Maize AMCOS Ltd,Kagera,amcos
+C00509,Ziwa Jitegemee Tobacco AMCOS Ltd,Kagera,amcos
+C00510,Subira Tegemeo Sugarcane AMCOS Ltd,Kagera,amcos
+C00511,Kilimo Soybeans AMCOS Ltd,Kagera,amcos
+C00512,Wanawake Bonde Coffee AMCOS Ltd,Kagera,amcos
+C00513,Faraja Livestock Cooperative Society Ltd,Kagera,other
+C00514,Jua Mavuno Coffee AMCOS Ltd,Kagera,amcos
+C00515,Heshima Pigeon Peas AMCOS Ltd,Kagera,amcos
+C00516,Zawadi Soybeans AMCOS Ltd,Kagera,amcos
+C00517,Hazina Hazina Sugarcane AMCOS Ltd,Kagera,amcos
+C00518,Baraka SACCOS Ltd,Kagera,saccos
+C00519,Shukrani Sesame AMCOS Ltd,Kagera,amcos
+C00520,Wafugaji Bidii Irrigation Cooperative Society Ltd,Kagera,other
+C00521,Maendeleo Irrigation Cooperative Society Ltd,Kagera,other
+C00522,Neema Cashew AMCOS Ltd,Kagera,amcos
+C00523,Pamoja Ujamaa Cashew AMCOS Ltd,Kagera,amcos
+C00524,Wavuvi Dairy Cooperative Society Ltd,Kagera,other
+C00525,Faraja Umoja Consumer Cooperative Society Ltd,Kagera,other
+C00526,Baraka Mapinduzi Mining Cooperative Society Ltd,Kagera,other
+C00527,Chemchem Ujamaa Cocoa AMCOS Ltd,Kagera,amcos
+C00528,Tunu Transport Cooperative Society Ltd,Kagera,other
+C00529,Kazi Tea AMCOS Ltd,Kagera,amcos
+C00530,Tegemeo Mining Cooperative Society Ltd,Kagera,other
+C00531,Wafugaji Coffee AMCOS Ltd,Kagera,amcos
+C00532,Shukrani Amani Irrigation Cooperative Society Ltd,Kagera,other
+C00533,Mto Maize AMCOS Ltd,Kagera,amcos
+C00534,Ridhaa Pamoja Cotton AMCOS Ltd,Kagera,amcos
+C00535,Upendo Sugarcane AMCOS Ltd,Kagera,amcos
+C00536,Mbele Chick Peas AMCOS Ltd,Kagera,amcos
+C00537,Ushindi Sisal AMCOS Ltd,Kagera,amcos
+C00538,Faraja Sugarcane AMCOS Ltd,Kagera,amcos
+C00539,Heshima Housing Cooperative Society Ltd,Kagera,other
+C00540,Wanawake Housing Cooperative Society Ltd,Kagera,other
+C00541,Subira Mshikamano Mining Cooperative Society Ltd,Kagera,other
+C00542,Heshima Pyrethrum AMCOS Ltd,Kagera,amcos
+C00543,Vijana Transport Cooperative Society Ltd,Kagera,other
+C00544,Wavuvi Transport Cooperative Society Ltd,Kagera,other
+C00545,Azimio Transport Cooperative Society Ltd,Kagera,other
+C00546,Mshikamano Mwangaza Irrigation Cooperative Society Ltd,Kagera,other
+C00547,Subira Soybeans AMCOS Ltd,Kagera,amcos
+C00548,Mshikamano Mining Cooperative Society Ltd,Kagera,other
+C00549,Ujamaa Cocoa AMCOS Ltd,Kagera,amcos
+C00550,Tegemeo Furaha Chick Peas AMCOS Ltd,Kagera,amcos
+C00551,Mwanga Soybeans AMCOS Ltd,Katavi,amcos
+C00552,Shukrani Kilimo Sesame AMCOS Ltd,Katavi,amcos
+C00553,Mkombozi Baraka Sugarcane AMCOS Ltd,Katavi,amcos
+C00554,Vijana Pigeon Peas AMCOS Ltd,Katavi,amcos
+C00555,Umoja Imani Fishing Cooperative Society Ltd,Katavi,other
+C00556,Jua Tobacco AMCOS Ltd,Katavi,amcos
+C00557,Subira Transport Cooperative Society Ltd,Katavi,other
+C00558,Kazi Chick Peas AMCOS Ltd,Katavi,amcos
+C00559,Sifa Tea AMCOS Ltd,Katavi,amcos
+C00560,Bidii Maize AMCOS Ltd,Katavi,amcos
+C00561,Upendo Cocoa AMCOS Ltd,Katavi,amcos
+C00562,Amani Vijana Maize AMCOS Ltd,Katavi,amcos
+C00563,Mavuno Juhudi Sesame AMCOS Ltd,Katavi,amcos
+C00564,Shukrani Wavuvi Housing Cooperative Society Ltd,Katavi,other
+C00565,Nguvu Soybeans AMCOS Ltd,Kigoma,amcos
+C00566,Azimio Pyrethrum AMCOS Ltd,Kigoma,amcos
+C00567,Msingi Mbele Sisal AMCOS Ltd,Kigoma,amcos
+C00568,Tumaini Fishing Cooperative Society Ltd,Kigoma,other
+C00569,Ridhaa Transport Cooperative Society Ltd,Kigoma,other
+C00570,Jitegemee Soybeans AMCOS Ltd,Kigoma,amcos
+C00571,Mshikamano Nuru Cashew AMCOS Ltd,Kigoma,amcos
+C00572,Kilele Irrigation Cooperative Society Ltd,Kigoma,other
+C00573,Kijani Mavuno SACCOS Ltd,Kigoma,saccos
+C00574,Ridhaa Tobacco AMCOS Ltd,Kigoma,amcos
+C00575,Mwangaza Ushindi Coffee AMCOS Ltd,Kigoma,amcos
+C00576,Imani Green Gram AMCOS Ltd,Kigoma,amcos
+C00577,Faraja Soybeans AMCOS Ltd,Kigoma,amcos
+C00578,Heshima Ridhaa Dairy Cooperative Society Ltd,Kigoma,other
+C00579,Neema Pigeon Peas AMCOS Ltd,Kigoma,amcos
+C00580,Msingi Housing Cooperative Society Ltd,Kigoma,other
+C00581,Wanawake Mining Cooperative Society Ltd,Kigoma,other
+C00582,Upendo Songa Consumer Cooperative Society Ltd,Kigoma,other
+C00583,Chemchem Baraka Livestock Cooperative Society Ltd,Kigoma,other
+C00584,Amka Furaha Sugarcane AMCOS Ltd,Kigoma,amcos
+C00585,Tafara Subira Tea AMCOS Ltd,Kigoma,amcos
+C00586,Tegemeo Maize AMCOS Ltd,Kigoma,amcos
+C00587,Hazina Fishing Cooperative Society Ltd,Kigoma,other
+C00588,Nuru Chick Peas AMCOS Ltd,Kigoma,amcos
+C00589,Harambee Baraka Sugarcane AMCOS Ltd,Kigoma,amcos
+C00590,Kilele Sugarcane AMCOS Ltd,Kigoma,amcos
+C00591,Bidii Kilimo Irrigation Cooperative Society Ltd,Kigoma,other
+C00592,Msingi Wavuvi Transport Cooperative Society Ltd,Kigoma,other
+C00593,Mwangaza Fishing Cooperative Society Ltd,Kigoma,other
+C00594,Neema Tegemeo Women Cooperative Society Ltd,Kigoma,other
+C00595,Umoja Sugarcane AMCOS Ltd,Kigoma,amcos
+C00596,Kilimo Neema Pigeon Peas AMCOS Ltd,Kigoma,amcos
+C00597,Wavuvi Cashew AMCOS Ltd,Kigoma,amcos
+C00598,Mkombozi Dairy Cooperative Society Ltd,Kigoma,other
+C00599,Mavuno Mining Cooperative Society Ltd,Kigoma,other
+C00600,Subira Maize AMCOS Ltd,Kigoma,amcos
+C00601,Uhuru Tafara Cocoa AMCOS Ltd,Kigoma,amcos
+C00602,Baraka Kilimo Pigeon Peas AMCOS Ltd,Kigoma,amcos
+C00603,Azimio Nguvu Irrigation Cooperative Society Ltd,Kigoma,other
+C00604,Mkombozi Cocoa AMCOS Ltd,Kigoma,amcos
+C00605,Tafara Faraja Sesame AMCOS Ltd,Kigoma,amcos
+C00606,Tegemeo Green Gram AMCOS Ltd,Kigoma,amcos
+C00607,Harambee Consumer Cooperative Society Ltd,Kigoma,other
+C00608,Jitegemee Mkombozi Youth Cooperative Society Ltd,Kigoma,other
+C00609,Chemchem Faraja Livestock Cooperative Society Ltd,Kigoma,other
+C00610,Zawadi Sesame AMCOS Ltd,Kigoma,amcos
+C00611,Azimio Tegemeo Sugarcane AMCOS Ltd,Kigoma,amcos
+C00612,Vijana Sugarcane AMCOS Ltd,Kigoma,amcos
+C00613,Wavuvi Kijani Soybeans AMCOS Ltd,Kigoma,amcos
+C00614,Baraka Transport Cooperative Society Ltd,Kigoma,other
+C00615,Mto Coffee AMCOS Ltd,Kigoma,amcos
+C00616,Faraja Transport Cooperative Society Ltd,Kigoma,other
+C00617,Wafugaji Kazi Mining Cooperative Society Ltd,Kigoma,other
+C00618,Tunu Ziwa Sisal AMCOS Ltd,Kigoma,amcos
+C00619,Kilele Bonde Transport Cooperative Society Ltd,Kigoma,other
+C00620,Hazina Azimio Cashew AMCOS Ltd,Kigoma,amcos
+C00621,Ushindi Nuru Mining Cooperative Society Ltd,Kilimanjaro,other
+C00622,Kazi Consumer Cooperative Society Ltd,Kilimanjaro,other
+C00623,Jua Cashew AMCOS Ltd,Kilimanjaro,amcos
+C00624,Chemchem Ujamaa Fishing Cooperative Society Ltd,Kilimanjaro,other
+C00625,Maendeleo Housing Cooperative Society Ltd,Kilimanjaro,other
+C00626,Tafara Azimio SACCOS Ltd,Kilimanjaro,saccos
+C00627,Chemchem Ushindi Soybeans AMCOS Ltd,Kilimanjaro,amcos
+C00628,Mwanga Tafara SACCOS Ltd,Kilimanjaro,saccos
+C00629,Kijiji Amka Chick Peas AMCOS Ltd,Kilimanjaro,amcos
+C00630,Mto Youth Cooperative Society Ltd,Kilimanjaro,other
+C00631,Wakulima Uhuru Maize AMCOS Ltd,Kilimanjaro,amcos
+C00632,Pamoja Faraja Cocoa AMCOS Ltd,Kilimanjaro,amcos
+C00633,Mlima Soybeans AMCOS Ltd,Kilimanjaro,amcos
+C00634,Kilele Maize AMCOS Ltd,Kilimanjaro,amcos
+C00635,Tegemeo Furaha SACCOS Ltd,Kilimanjaro,saccos
+C00636,Hazina Consumer Cooperative Society Ltd,Kilimanjaro,other
+C00637,Ushindi Green Gram AMCOS Ltd,Kilimanjaro,amcos
+C00638,Bidii Maendeleo SACCOS Ltd,Kilimanjaro,saccos
+C00639,Songa Housing Cooperative Society Ltd,Kilimanjaro,other
+C00640,Mapinduzi Cocoa AMCOS Ltd,Kilimanjaro,amcos
+C00641,Ridhaa Consumer Cooperative Society Ltd,Kilimanjaro,other
+C00642,Vijana Jitegemee Coffee AMCOS Ltd,Kilimanjaro,amcos
+C00643,Tafara Kazi Pyrethrum AMCOS Ltd,Kilimanjaro,amcos
+C00644,Tegemeo Pyrethrum AMCOS Ltd,Kilimanjaro,amcos
+C00645,Jua Women Cooperative Society Ltd,Kilimanjaro,other
+C00646,Wavuvi Mavuno SACCOS Ltd,Kilimanjaro,saccos
+C00647,Mapinduzi Coffee AMCOS Ltd,Kilimanjaro,amcos
+C00648,Ridhaa Sisal AMCOS Ltd,Kilimanjaro,amcos
+C00649,Msingi Soybeans AMCOS Ltd,Kilimanjaro,amcos
+C00650,Wanawake Hazina SACCOS Ltd,Kilimanjaro,saccos
+C00651,Upendo Wafugaji Sugarcane AMCOS Ltd,Kilimanjaro,amcos
+C00652,Pamoja Irrigation Cooperative Society Ltd,Kilimanjaro,other
+C00653,Wavuvi Cotton AMCOS Ltd,Kilimanjaro,amcos
+C00654,Tunu Mining Cooperative Society Ltd,Kilimanjaro,other
+C00655,Ridhaa Irrigation Cooperative Society Ltd,Kilimanjaro,other
+C00656,Songa Green Gram AMCOS Ltd,Kilimanjaro,amcos
+C00657,Songa Chick Peas AMCOS Ltd,Kilimanjaro,amcos
+C00658,Wanawake Pyrethrum AMCOS Ltd,Kilimanjaro,amcos
+C00659,Uhuru Kijiji Sesame AMCOS Ltd,Kilimanjaro,amcos
+C00660,Kilimo Tobacco AMCOS Ltd,Kilimanjaro,amcos
+C00661,Hazina Livestock Cooperative Society Ltd,Kilimanjaro,other
+C00662,Songa Cocoa AMCOS Ltd,Kilimanjaro,amcos
+C00663,Subira Bidii Transport Cooperative Society Ltd,Kilimanjaro,other
+C00664,Msingi Mlima SACCOS Ltd,Kilimanjaro,saccos
+C00665,Nuru Tobacco AMCOS Ltd,Kilimanjaro,amcos
+C00666,Umoja Fishing Cooperative Society Ltd,Kilimanjaro,other
+C00667,Kijani Soybeans AMCOS Ltd,Kilimanjaro,amcos
+C00668,Mapinduzi Transport Cooperative Society Ltd,Kilimanjaro,other
+C00669,Kilimo Mavuno Sesame AMCOS Ltd,Kilimanjaro,amcos
+C00670,Jitegemee Green Gram AMCOS Ltd,Kilimanjaro,amcos
+C00671,Mlima Chick Peas AMCOS Ltd,Kilimanjaro,amcos
+C00672,Amka Pamoja SACCOS Ltd,Kilimanjaro,saccos
+C00673,Harambee Jua Livestock Cooperative Society Ltd,Kilimanjaro,other
+C00674,Uhuru Fishing Cooperative Society Ltd,Kilimanjaro,other
+C00675,Harambee Cashew AMCOS Ltd,Kilimanjaro,amcos
+C00676,Jua Maendeleo Transport Cooperative Society Ltd,Kilimanjaro,other
+C00677,Jua Baraka SACCOS Ltd,Kilimanjaro,saccos
+C00678,Tunu Women Cooperative Society Ltd,Kilimanjaro,other
+C00679,Bonde Mapinduzi Women Cooperative Society Ltd,Kilimanjaro,other
+C00680,Ujamaa Coffee AMCOS Ltd,Kilimanjaro,amcos
+C00681,Maendeleo Maize AMCOS Ltd,Kilimanjaro,amcos
+C00682,Bonde Wavuvi Soybeans AMCOS Ltd,Kilimanjaro,amcos
+C00683,Mkombozi Jua SACCOS Ltd,Kilimanjaro,saccos
+C00684,Amka Pyrethrum AMCOS Ltd,Kilimanjaro,amcos
+C00685,Mkombozi Livestock Cooperative Society Ltd,Kilimanjaro,other
+C00686,Bonde Azimio Irrigation Cooperative Society Ltd,Kilimanjaro,other
+C00687,Tegemeo Msingi Chick Peas AMCOS Ltd,Kilimanjaro,amcos
+C00688,Songa Pyrethrum AMCOS Ltd,Kilimanjaro,amcos
+C00689,Mto Chemchem Fishing Cooperative Society Ltd,Kilimanjaro,other
+C00690,Furaha Tumaini Transport Cooperative Society Ltd,Kilimanjaro,other
+C00691,Nuru Kijiji Maize AMCOS Ltd,Kilimanjaro,amcos
+C00692,Harambee SACCOS Ltd,Kilimanjaro,saccos
+C00693,Neema Nuru Women Cooperative Society Ltd,Kilimanjaro,other
+C00694,Wafugaji Vijana Tea AMCOS Ltd,Kilimanjaro,amcos
+C00695,Jua Youth Cooperative Society Ltd,Kilimanjaro,other
+C00696,Tumaini Harambee Sesame AMCOS Ltd,Lindi,amcos
+C00697,Mkombozi Ziwa Women Cooperative Society Ltd,Lindi,other
+C00698,Maendeleo Jitegemee Women Cooperative Society Ltd,Lindi,other
+C00699,Msingi Sugarcane AMCOS Ltd,Lindi,amcos
+C00700,Ridhaa Cocoa AMCOS Ltd,Lindi,amcos
+C00701,Zawadi Tobacco AMCOS Ltd,Lindi,amcos
+C00702,Sifa Cotton AMCOS Ltd,Lindi,amcos
+C00703,Kijiji Irrigation Cooperative Society Ltd,Lindi,other
+C00704,Pamoja Tea AMCOS Ltd,Lindi,amcos
+C00705,Wanawake Uhuru Chick Peas AMCOS Ltd,Lindi,amcos
+C00706,Nuru Amka Youth Cooperative Society Ltd,Lindi,other
+C00707,Mwangaza Mining Cooperative Society Ltd,Lindi,other
+C00708,Sifa Transport Cooperative Society Ltd,Lindi,other
+C00709,Heshima Ujamaa Housing Cooperative Society Ltd,Lindi,other
+C00710,Kilimo Chick Peas AMCOS Ltd,Lindi,amcos
+C00711,Baraka Livestock Cooperative Society Ltd,Lindi,other
+C00712,Bidii Pamoja SACCOS Ltd,Lindi,saccos
+C00713,Imani Azimio Sesame AMCOS Ltd,Lindi,amcos
+C00714,Subira Pigeon Peas AMCOS Ltd,Lindi,amcos
+C00715,Hazina Tobacco AMCOS Ltd,Lindi,amcos
+C00716,Ujamaa Wafugaji Tea AMCOS Ltd,Lindi,amcos
+C00717,Jua Dairy Cooperative Society Ltd,Lindi,other
+C00718,Ushindi Subira Cashew AMCOS Ltd,Lindi,amcos
+C00719,Mshikamano Tobacco AMCOS Ltd,Lindi,amcos
+C00720,Heshima Soybeans AMCOS Ltd,Lindi,amcos
+C00721,Ushindi Transport Cooperative Society Ltd,Lindi,other
+C00722,Baraka Sisal AMCOS Ltd,Lindi,amcos
+C00723,Jitegemee Nguvu Transport Cooperative Society Ltd,Lindi,other
+C00724,Kilimo Imani Sugarcane AMCOS Ltd,Lindi,amcos
+C00725,Vijana Ushindi Pigeon Peas AMCOS Ltd,Lindi,amcos
+C00726,Bidii Sugarcane AMCOS Ltd,Lindi,amcos
+C00727,Furaha Tea AMCOS Ltd,Lindi,amcos
+C00728,Maendeleo Sifa Consumer Cooperative Society Ltd,Lindi,other
+C00729,Upendo Amka Chick Peas AMCOS Ltd,Lindi,amcos
+C00730,Kijiji Mapinduzi Cashew AMCOS Ltd,Lindi,amcos
+C00731,Mto Ridhaa Dairy Cooperative Society Ltd,Lindi,other
+C00732,Faraja Pyrethrum AMCOS Ltd,Lindi,amcos
+C00733,Subira Ushindi Women Cooperative Society Ltd,Lindi,other
+C00734,Maendeleo Shukrani Youth Cooperative Society Ltd,Lindi,other
+C00735,Jitegemee Faraja Sisal AMCOS Ltd,Lindi,amcos
+C00736,Bonde Vijana Tea AMCOS Ltd,Lindi,amcos
+C00737,Baraka Baraka Sisal AMCOS Ltd,Lindi,amcos
+C00738,Mwanga Tea AMCOS Ltd,Lindi,amcos
+C00739,Tumaini Wanawake Soybeans AMCOS Ltd,Lindi,amcos
+C00740,Faraja Maize AMCOS Ltd,Lindi,amcos
+C00741,Kilimo Sesame AMCOS Ltd,Lindi,amcos
+C00742,Ujamaa Chick Peas AMCOS Ltd,Lindi,amcos
+C00743,Kilimo Sisal AMCOS Ltd,Lindi,amcos
+C00744,Mbele Sugarcane AMCOS Ltd,Lindi,amcos
+C00745,Wafugaji Housing Cooperative Society Ltd,Lindi,other
+C00746,Chemchem Tobacco AMCOS Ltd,Manyara,amcos
+C00747,Wanawake Cocoa AMCOS Ltd,Manyara,amcos
+C00748,Amani Heshima SACCOS Ltd,Manyara,saccos
+C00749,Chemchem Youth Cooperative Society Ltd,Manyara,other
+C00750,Uhuru Ziwa SACCOS Ltd,Manyara,saccos
+C00751,Wafugaji Dairy Cooperative Society Ltd,Manyara,other
+C00752,Amka Tobacco AMCOS Ltd,Manyara,amcos
+C00753,Subira Housing Cooperative Society Ltd,Manyara,other
+C00754,Vijana Jua Sesame AMCOS Ltd,Manyara,amcos
+C00755,Wanawake Imani Irrigation Cooperative Society Ltd,Manyara,other
+C00756,Wafugaji Msingi SACCOS Ltd,Manyara,saccos
+C00757,Tumaini Heshima SACCOS Ltd,Manyara,saccos
+C00758,Chemchem Kilele SACCOS Ltd,Manyara,saccos
+C00759,Jitegemee Mwangaza Housing Cooperative Society Ltd,Manyara,other
+C00760,Tumaini Vijana Cocoa AMCOS Ltd,Manyara,amcos
+C00761,Tunu Wakulima Fishing Cooperative Society Ltd,Manyara,other
+C00762,Ushindi Bidii SACCOS Ltd,Manyara,saccos
+C00763,Uhuru Sisal AMCOS Ltd,Manyara,amcos
+C00764,Wavuvi Housing Cooperative Society Ltd,Manyara,other
+C00765,Mwangaza Consumer Cooperative Society Ltd,Manyara,other
+C00766,Faraja Consumer Cooperative Society Ltd,Manyara,other
+C00767,Upendo Bidii Consumer Cooperative Society Ltd,Manyara,other
+C00768,Msingi Zawadi SACCOS Ltd,Manyara,saccos
+C00769,Mbele Housing Cooperative Society Ltd,Manyara,other
+C00770,Mwanga Furaha SACCOS Ltd,Manyara,saccos
+C00771,Baraka Dairy Cooperative Society Ltd,Manyara,other
+C00772,Tumaini Women Cooperative Society Ltd,Manyara,other
+C00773,Wafugaji Consumer Cooperative Society Ltd,Manyara,other
+C00774,Mwanga Amka SACCOS Ltd,Manyara,saccos
+C00775,Amani Ushindi SACCOS Ltd,Manyara,saccos
+C00776,Baraka Fishing Cooperative Society Ltd,Manyara,other
+C00777,Juhudi Pigeon Peas AMCOS Ltd,Manyara,amcos
+C00778,Kijiji Bonde SACCOS Ltd,Manyara,saccos
+C00779,Juhudi Imani Pyrethrum AMCOS Ltd,Manyara,amcos
+C00780,Mavuno Ushindi SACCOS Ltd,Manyara,saccos
+C00781,Wanawake Cashew AMCOS Ltd,Manyara,amcos
+C00782,Kazi Neema SACCOS Ltd,Manyara,saccos
+C00783,Ziwa Chick Peas AMCOS Ltd,Manyara,amcos
+C00784,Amani Mlima Chick Peas AMCOS Ltd,Mara,amcos
+C00785,Chemchem Maize AMCOS Ltd,Mara,amcos
+C00786,Chemchem Fishing Cooperative Society Ltd,Mara,other
+C00787,Tegemeo Cotton AMCOS Ltd,Mara,amcos
+C00788,Mwanga Cotton AMCOS Ltd,Mara,amcos
+C00789,Wanawake Hazina Fishing Cooperative Society Ltd,Mara,other
+C00790,Neema Transport Cooperative Society Ltd,Mara,other
+C00791,Mto Tobacco AMCOS Ltd,Mara,amcos
+C00792,Wakulima Consumer Cooperative Society Ltd,Mara,other
+C00793,Mshikamano Hazina Cocoa AMCOS Ltd,Mara,amcos
+C00794,Furaha Maize AMCOS Ltd,Mara,amcos
+C00795,Neema Tea AMCOS Ltd,Mara,amcos
+C00796,Mlima Mkombozi Tobacco AMCOS Ltd,Mara,amcos
+C00797,Kilimo Dairy Cooperative Society Ltd,Mara,other
+C00798,Azimio Sugarcane AMCOS Ltd,Mara,amcos
+C00799,Ujamaa Mshikamano Sesame AMCOS Ltd,Mara,amcos
+C00800,Mbele Ujamaa Sisal AMCOS Ltd,Mara,amcos
+C00801,Msingi Cocoa AMCOS Ltd,Mara,amcos
+C00802,Chemchem Dairy Cooperative Society Ltd,Mara,other
+C00803,Juhudi Cotton AMCOS Ltd,Mara,amcos
+C00804,Songa Tafara Irrigation Cooperative Society Ltd,Mara,other
+C00805,Tunu Maize AMCOS Ltd,Mara,amcos
+C00806,Mkombozi Coffee AMCOS Ltd,Mara,amcos
+C00807,Ridhaa Pyrethrum AMCOS Ltd,Mara,amcos
+C00808,Azimio Tafara Transport Cooperative Society Ltd,Mara,other
+C00809,Amani Mbele Dairy Cooperative Society Ltd,Mara,other
+C00810,Subira Tumaini Youth Cooperative Society Ltd,Mara,other
+C00811,Kilimo Maize AMCOS Ltd,Mara,amcos
+C00812,Mlima Youth Cooperative Society Ltd,Mara,other
+C00813,Chemchem Cocoa AMCOS Ltd,Mara,amcos
+C00814,Mavuno Tumaini Sesame AMCOS Ltd,Mara,amcos
+C00815,Tunu Youth Cooperative Society Ltd,Mara,other
+C00816,Mto Bonde Cashew AMCOS Ltd,Mara,amcos
+C00817,Songa Dairy Cooperative Society Ltd,Mara,other
+C00818,Chemchem Consumer Cooperative Society Ltd,Mara,other
+C00819,Sifa Nguvu Cotton AMCOS Ltd,Mara,amcos
+C00820,Kijiji Transport Cooperative Society Ltd,Mara,other
+C00821,Tegemeo Coffee AMCOS Ltd,Mara,amcos
+C00822,Pamoja Wakulima Transport Cooperative Society Ltd,Mara,other
+C00823,Vijana Nuru Housing Cooperative Society Ltd,Mara,other
+C00824,Mto Baraka Cotton AMCOS Ltd,Mara,amcos
+C00825,Mlima Kilimo Soybeans AMCOS Ltd,Mara,amcos
+C00826,Bonde Mshikamano Coffee AMCOS Ltd,Mara,amcos
+C00827,Tumaini Consumer Cooperative Society Ltd,Mara,other
+C00828,Faraja Dairy Cooperative Society Ltd,Mara,other
+C00829,Ujamaa Consumer Cooperative Society Ltd,Mara,other
+C00830,Kijani Irrigation Cooperative Society Ltd,Mara,other
+C00831,Ziwa Cocoa AMCOS Ltd,Mara,amcos
+C00832,Shukrani Cotton AMCOS Ltd,Mara,amcos
+C00833,Ushindi Mining Cooperative Society Ltd,Mara,other
+C00834,Hazina Housing Cooperative Society Ltd,Mara,other
+C00835,Bonde Mapinduzi Tea AMCOS Ltd,Mara,amcos
+C00836,Tafara Housing Cooperative Society Ltd,Mara,other
+C00837,Nguvu Chick Peas AMCOS Ltd,Mara,amcos
+C00838,Chemchem Mlima Sesame AMCOS Ltd,Mara,amcos
+C00839,Baraka Chick Peas AMCOS Ltd,Mara,amcos
+C00840,Songa Maize AMCOS Ltd,Mara,amcos
+C00841,Tumaini Coffee AMCOS Ltd,Mara,amcos
+C00842,Juhudi Tobacco AMCOS Ltd,Mara,amcos
+C00843,Pamoja Songa Fishing Cooperative Society Ltd,Mara,other
+C00844,Msingi Mwangaza Cashew AMCOS Ltd,Mara,amcos
+C00845,Uhuru Sugarcane AMCOS Ltd,Mara,amcos
+C00846,Hazina Maize AMCOS Ltd,Mara,amcos
+C00847,Mlima Pigeon Peas AMCOS Ltd,Mara,amcos
+C00848,Tegemeo Wafugaji Green Gram AMCOS Ltd,Mara,amcos
+C00849,Umoja Mining Cooperative Society Ltd,Mara,other
+C00850,Imani Umoja Coffee AMCOS Ltd,Mara,amcos
+C00851,Heshima Cocoa AMCOS Ltd,Mara,amcos
+C00852,Ushindi Cocoa AMCOS Ltd,Mara,amcos
+C00853,Baraka Cotton AMCOS Ltd,Mara,amcos
+C00854,Harambee Housing Cooperative Society Ltd,Mara,other
+C00855,Jitegemee Amani Cocoa AMCOS Ltd,Mara,amcos
+C00856,Maendeleo Dairy Cooperative Society Ltd,Mara,other
+C00857,Kilele Tumaini Dairy Cooperative Society Ltd,Mara,other
+C00858,Tumaini Maize AMCOS Ltd,Mara,amcos
+C00859,Furaha Cotton AMCOS Ltd,Mara,amcos
+C00860,Ujamaa Livestock Cooperative Society Ltd,Mara,other
+C00861,Maendeleo Sesame AMCOS Ltd,Mara,amcos
+C00862,Imani Youth Cooperative Society Ltd,Mara,other
+C00863,Mapinduzi Cashew AMCOS Ltd,Mara,amcos
+C00864,Wavuvi Tobacco AMCOS Ltd,Mara,amcos
+C00865,Chemchem Umoja SACCOS Ltd,Mara,saccos
+C00866,Neema Irrigation Cooperative Society Ltd,Mara,other
+C00867,Kijani Youth Cooperative Society Ltd,Mara,other
+C00868,Pamoja Pigeon Peas AMCOS Ltd,Mara,amcos
+C00869,Tumaini Mwangaza Livestock Cooperative Society Ltd,Mara,other
+C00870,Maendeleo Hazina Dairy Cooperative Society Ltd,Mara,other
+C00871,Amka Bonde Green Gram AMCOS Ltd,Mara,amcos
+C00872,Neema Chick Peas AMCOS Ltd,Mara,amcos
+C00873,Faraja Tea AMCOS Ltd,Mara,amcos
+C00874,Bonde Cocoa AMCOS Ltd,Mara,amcos
+C00875,Ushindi Sugarcane AMCOS Ltd,Mara,amcos
+C00876,Wanawake Maize AMCOS Ltd,Mara,amcos
+C00877,Bonde Kijiji Mining Cooperative Society Ltd,Mbeya,other
+C00878,Ziwa Soybeans AMCOS Ltd,Mbeya,amcos
+C00879,Jua Soybeans AMCOS Ltd,Mbeya,amcos
+C00880,Tegemeo Ridhaa Sesame AMCOS Ltd,Mbeya,amcos
+C00881,Tumaini Uhuru Pigeon Peas AMCOS Ltd,Mbeya,amcos
+C00882,Amka SACCOS Ltd,Mbeya,saccos
+C00883,Hazina Cotton AMCOS Ltd,Mbeya,amcos
+C00884,Faraja Cashew AMCOS Ltd,Mbeya,amcos
+C00885,Ridhaa Mkombozi Livestock Cooperative Society Ltd,Mbeya,other
+C00886,Ziwa Tea AMCOS Ltd,Mbeya,amcos
+C00887,Tumaini Housing Cooperative Society Ltd,Mbeya,other
+C00888,Wavuvi Soybeans AMCOS Ltd,Mbeya,amcos
+C00889,Mapinduzi Livestock Cooperative Society Ltd,Mbeya,other
+C00890,Uhuru Transport Cooperative Society Ltd,Mbeya,other
+C00891,Ushindi Imani SACCOS Ltd,Mbeya,saccos
+C00892,Ujamaa Mlima Consumer Cooperative Society Ltd,Mbeya,other
+C00893,Maendeleo Sisal AMCOS Ltd,Mbeya,amcos
+C00894,Harambee Pyrethrum AMCOS Ltd,Mbeya,amcos
+C00895,Vijana Ridhaa SACCOS Ltd,Mbeya,saccos
+C00896,Nuru Sesame AMCOS Ltd,Mbeya,amcos
+C00897,Ujamaa Mining Cooperative Society Ltd,Mbeya,other
+C00898,Kijiji Coffee AMCOS Ltd,Mbeya,amcos
+C00899,Imani Kijiji Green Gram AMCOS Ltd,Mbeya,amcos
+C00900,Mto Kijiji Cocoa AMCOS Ltd,Mbeya,amcos
+C00901,Mavuno Cashew AMCOS Ltd,Mbeya,amcos
+C00902,Wakulima Tegemeo SACCOS Ltd,Mbeya,saccos
+C00903,Ziwa Kilimo Women Cooperative Society Ltd,Mbeya,other
+C00904,Tumaini Sugarcane AMCOS Ltd,Mbeya,amcos
+C00905,Wafugaji Ridhaa Sesame AMCOS Ltd,Mbeya,amcos
+C00906,Zawadi Pyrethrum AMCOS Ltd,Mbeya,amcos
+C00907,Azimio Dairy Cooperative Society Ltd,Mbeya,other
+C00908,Tegemeo Housing Cooperative Society Ltd,Mbeya,other
+C00909,Wavuvi Zawadi Sesame AMCOS Ltd,Mbeya,amcos
+C00910,Songa Youth Cooperative Society Ltd,Mbeya,other
+C00911,Mlima Sugarcane AMCOS Ltd,Mbeya,amcos
+C00912,Kijani Cocoa AMCOS Ltd,Mbeya,amcos
+C00913,Mto Mwangaza Fishing Cooperative Society Ltd,Mbeya,other
+C00914,Tegemeo Kilimo Cocoa AMCOS Ltd,Mbeya,amcos
+C00915,Uhuru Green Gram AMCOS Ltd,Mbeya,amcos
+C00916,Mshikamano Sugarcane AMCOS Ltd,Mbeya,amcos
+C00917,Kijiji Heshima Mining Cooperative Society Ltd,Mbeya,other
+C00918,Heshima Green Gram AMCOS Ltd,Mbeya,amcos
+C00919,Kazi Hazina Pigeon Peas AMCOS Ltd,Mbeya,amcos
+C00920,Maendeleo Tobacco AMCOS Ltd,Mbeya,amcos
+C00921,Mto Sugarcane AMCOS Ltd,Mbeya,amcos
+C00922,Maendeleo Cotton AMCOS Ltd,Mbeya,amcos
+C00923,Amani Housing Cooperative Society Ltd,Mbeya,other
+C00924,Nuru Cashew AMCOS Ltd,Mbeya,amcos
+C00925,Nuru Ushindi SACCOS Ltd,Mbeya,saccos
+C00926,Baraka Mlima Transport Cooperative Society Ltd,Mbeya,other
+C00927,Shukrani Wafugaji Transport Cooperative Society Ltd,Mbeya,other
+C00928,Mto Pamoja Dairy Cooperative Society Ltd,Mbeya,other
+C00929,Neema Mwangaza Mining Cooperative Society Ltd,Mbeya,other
+C00930,Ujamaa Maize AMCOS Ltd,Mbeya,amcos
+C00931,Bidii Mto SACCOS Ltd,Mbeya,saccos
+C00932,Zawadi Fishing Cooperative Society Ltd,Mbeya,other
+C00933,Azimio Cotton AMCOS Ltd,Mbeya,amcos
+C00934,Ziwa Uhuru Cocoa AMCOS Ltd,Mbeya,amcos
+C00935,Mto Housing Cooperative Society Ltd,Mbeya,other
+C00936,Umoja Chick Peas AMCOS Ltd,Mbeya,amcos
+C00937,Upendo Mkombozi Pyrethrum AMCOS Ltd,Mbeya,amcos
+C00938,Neema Zawadi Housing Cooperative Society Ltd,Mbeya,other
+C00939,Furaha Pyrethrum AMCOS Ltd,Mbeya,amcos
+C00940,Mshikamano Heshima Cotton AMCOS Ltd,Mbeya,amcos
+C00941,Imani Ziwa Dairy Cooperative Society Ltd,Mbeya,other
+C00942,Ziwa Ushindi SACCOS Ltd,Mbeya,saccos
+C00943,Vijana Cocoa AMCOS Ltd,Mbeya,amcos
+C00944,Kilele Imani Pigeon Peas AMCOS Ltd,Mbeya,amcos
+C00945,Juhudi Sesame AMCOS Ltd,Mbeya,amcos
+C00946,Mshikamano Green Gram AMCOS Ltd,Mbeya,amcos
+C00947,Harambee Bidii Coffee AMCOS Ltd,Mbeya,amcos
+C00948,Kijiji Tea AMCOS Ltd,Mbeya,amcos
+C00949,Kazi Kijani Pigeon Peas AMCOS Ltd,Mbeya,amcos
+C00950,Wavuvi Bonde Tea AMCOS Ltd,Mbeya,amcos
+C00951,Wafugaji Kijani Fishing Cooperative Society Ltd,Mbeya,other
+C00952,Kijani Amani Dairy Cooperative Society Ltd,Mbeya,other
+C00953,Ridhaa Sesame AMCOS Ltd,Mbeya,amcos
+C00954,Faraja Tunu Tea AMCOS Ltd,Mbeya,amcos
+C00955,Mavuno Nuru Maize AMCOS Ltd,Mbeya,amcos
+C00956,Sifa Sugarcane AMCOS Ltd,Mbeya,amcos
+C00957,Nuru Uhuru SACCOS Ltd,Mbeya,saccos
+C00958,Wanawake Irrigation Cooperative Society Ltd,Mbeya,other
+C00959,Mapinduzi Hazina Chick Peas AMCOS Ltd,Mbeya,amcos
+C00960,Furaha Transport Cooperative Society Ltd,Mbeya,other
+C00961,Bonde Kijiji Livestock Cooperative Society Ltd,Mbeya,other
+C00962,Mwangaza Sesame AMCOS Ltd,Mbeya,amcos
+C00963,Nguvu Mining Cooperative Society Ltd,Mbeya,other
+C00964,Faraja Irrigation Cooperative Society Ltd,Mbeya,other
+C00965,Mbele Uhuru Pyrethrum AMCOS Ltd,Mbeya,amcos
+C00966,Bonde Mshikamano SACCOS Ltd,Mbeya,saccos
+C00967,Kazi Youth Cooperative Society Ltd,Mbeya,other
+C00968,Ujamaa Irrigation Cooperative Society Ltd,Mbeya,other
+C00969,Uhuru Coffee AMCOS Ltd,Mbeya,amcos
+C00970,Upendo Vijana SACCOS Ltd,Mbeya,saccos
+C00971,Tumaini Mwangaza Maize AMCOS Ltd,Mbeya,amcos
+C00972,Mkombozi Tobacco AMCOS Ltd,Mbeya,amcos
+C00973,Kijani Fishing Cooperative Society Ltd,Mbeya,other
+C00974,Uhuru Ujamaa Sugarcane AMCOS Ltd,Mbeya,amcos
+C00975,Mto Pamoja Chick Peas AMCOS Ltd,Mbeya,amcos
+C00976,Amani Songa Transport Cooperative Society Ltd,Mbeya,other
+C00977,Ridhaa Ushindi SACCOS Ltd,Mbeya,saccos
+C00978,Ziwa Mkombozi Cashew AMCOS Ltd,Mbeya,amcos
+C00979,Kazi Transport Cooperative Society Ltd,Mbeya,other
+C00980,Heshima Sugarcane AMCOS Ltd,Morogoro,amcos
+C00981,Tegemeo Consumer Cooperative Society Ltd,Morogoro,other
+C00982,Umoja Consumer Cooperative Society Ltd,Morogoro,other
+C00983,Wakulima Umoja Coffee AMCOS Ltd,Morogoro,amcos
+C00984,Jua Chick Peas AMCOS Ltd,Morogoro,amcos
+C00985,Amka Sesame AMCOS Ltd,Morogoro,amcos
+C00986,Kilimo Coffee AMCOS Ltd,Morogoro,amcos
+C00987,Kazi Cotton AMCOS Ltd,Morogoro,amcos
+C00988,Wanawake Kijiji Cocoa AMCOS Ltd,Morogoro,amcos
+C00989,Heshima Women Cooperative Society Ltd,Morogoro,other
+C00990,Ushindi Faraja Mining Cooperative Society Ltd,Morogoro,other
+C00991,Kilele Women Cooperative Society Ltd,Morogoro,other
+C00992,Harambee Nguvu Chick Peas AMCOS Ltd,Morogoro,amcos
+C00993,Mkombozi Tegemeo Transport Cooperative Society Ltd,Morogoro,other
+C00994,Kilele Sesame AMCOS Ltd,Morogoro,amcos
+C00995,Tumaini Irrigation Cooperative Society Ltd,Morogoro,other
+C00996,Mwanga Amka Sugarcane AMCOS Ltd,Morogoro,amcos
+C00997,Wakulima Upendo Mining Cooperative Society Ltd,Morogoro,other
+C00998,Wakulima Sisal AMCOS Ltd,Morogoro,amcos
+C00999,Neema Housing Cooperative Society Ltd,Morogoro,other
+C01000,Ziwa Pyrethrum AMCOS Ltd,Morogoro,amcos
+C01001,Neema Mining Cooperative Society Ltd,Morogoro,other
+C01002,Vijana Ridhaa Sesame AMCOS Ltd,Morogoro,amcos
+C01003,Imani Cashew AMCOS Ltd,Morogoro,amcos
+C01004,Nguvu Nuru SACCOS Ltd,Morogoro,saccos
+C01005,Sifa Pyrethrum AMCOS Ltd,Morogoro,amcos
+C01006,Ridhaa Pigeon Peas AMCOS Ltd,Morogoro,amcos
+C01007,Tunu Sesame AMCOS Ltd,Morogoro,amcos
+C01008,Songa Maendeleo Maize AMCOS Ltd,Morogoro,amcos
+C01009,Subira Faraja Housing Cooperative Society Ltd,Morogoro,other
+C01010,Baraka Green Gram AMCOS Ltd,Morogoro,amcos
+C01011,Mapinduzi Wanawake Soybeans AMCOS Ltd,Morogoro,amcos
+C01012,Mto Soybeans AMCOS Ltd,Morogoro,amcos
+C01013,Imani Subira Youth Cooperative Society Ltd,Morogoro,other
+C01014,Heshima Subira Housing Cooperative Society Ltd,Morogoro,other
+C01015,Mshikamano SACCOS Ltd,Morogoro,saccos
+C01016,Neema Consumer Cooperative Society Ltd,Morogoro,other
+C01017,Umoja Cashew AMCOS Ltd,Morogoro,amcos
+C01018,Amka Pigeon Peas AMCOS Ltd,Morogoro,amcos
+C01019,Faraja Wanawake SACCOS Ltd,Morogoro,saccos
+C01020,Wakulima Pyrethrum AMCOS Ltd,Morogoro,amcos
+C01021,Upendo Sisal AMCOS Ltd,Morogoro,amcos
+C01022,Tunu Maendeleo Irrigation Cooperative Society Ltd,Morogoro,other
+C01023,Kazi Pyrethrum AMCOS Ltd,Morogoro,amcos
+C01024,Nguvu Chemchem Housing Cooperative Society Ltd,Morogoro,other
+C01025,Kazi Harambee Soybeans AMCOS Ltd,Morogoro,amcos
+C01026,Mwanga Jitegemee Youth Cooperative Society Ltd,Morogoro,other
+C01027,Ridhaa Kilimo Mining Cooperative Society Ltd,Morogoro,other
+C01028,Harambee Sugarcane AMCOS Ltd,Morogoro,amcos
+C01029,Zawadi Sifa SACCOS Ltd,Morogoro,saccos
+C01030,Wafugaji Livestock Cooperative Society Ltd,Morogoro,other
+C01031,Nguvu Maize AMCOS Ltd,Morogoro,amcos
+C01032,Ridhaa Shukrani Pigeon Peas AMCOS Ltd,Morogoro,amcos
+C01033,Zawadi Kazi Pyrethrum AMCOS Ltd,Morogoro,amcos
+C01034,Sifa Amani Green Gram AMCOS Ltd,Morogoro,amcos
+C01035,Songa Sesame AMCOS Ltd,Morogoro,amcos
+C01036,Wanawake Sugarcane AMCOS Ltd,Morogoro,amcos
+C01037,Mavuno Irrigation Cooperative Society Ltd,Morogoro,other
+C01038,Kilele Mlima Women Cooperative Society Ltd,Morogoro,other
+C01039,Mlima Sisal AMCOS Ltd,Morogoro,amcos
+C01040,Kilele Fishing Cooperative Society Ltd,Morogoro,other
+C01041,Neema Heshima Sisal AMCOS Ltd,Morogoro,amcos
+C01042,Mavuno Maize AMCOS Ltd,Morogoro,amcos
+C01043,Kilimo Housing Cooperative Society Ltd,Morogoro,other
+C01044,Uhuru Amani SACCOS Ltd,Morogoro,saccos
+C01045,Subira Fishing Cooperative Society Ltd,Morogoro,other
+C01046,Furaha Ushindi SACCOS Ltd,Morogoro,saccos
+C01047,Ushindi Mshikamano SACCOS Ltd,Morogoro,saccos
+C01048,Ziwa Irrigation Cooperative Society Ltd,Morogoro,other
+C01049,Wavuvi Mining Cooperative Society Ltd,Morogoro,other
+C01050,Mwangaza Soybeans AMCOS Ltd,Morogoro,amcos
+C01051,Mlima Irrigation Cooperative Society Ltd,Morogoro,other
+C01052,Wafugaji Neema Green Gram AMCOS Ltd,Morogoro,amcos
+C01053,Ujamaa Tafara SACCOS Ltd,Morogoro,saccos
+C01054,Wakulima Housing Cooperative Society Ltd,Morogoro,other
+C01055,Msingi Cashew AMCOS Ltd,Morogoro,amcos
+C01056,Tunu Coffee AMCOS Ltd,Morogoro,amcos
+C01057,Azimio Kazi Tobacco AMCOS Ltd,Morogoro,amcos
+C01058,Zawadi Youth Cooperative Society Ltd,Morogoro,other
+C01059,Nguvu Mlima Sugarcane AMCOS Ltd,Morogoro,amcos
+C01060,Sifa Livestock Cooperative Society Ltd,Morogoro,other
+C01061,Mavuno Cotton AMCOS Ltd,Morogoro,amcos
+C01062,Ujamaa Baraka Cotton AMCOS Ltd,Morogoro,amcos
+C01063,Mshikamano Wafugaji SACCOS Ltd,Morogoro,saccos
+C01064,Ushindi Jitegemee Dairy Cooperative Society Ltd,Morogoro,other
+C01065,Heshima Umoja Green Gram AMCOS Ltd,Morogoro,amcos
+C01066,Ujamaa Sifa Green Gram AMCOS Ltd,Morogoro,amcos
+C01067,Neema Dairy Cooperative Society Ltd,Morogoro,other
+C01068,Chemchem Shukrani Maize AMCOS Ltd,Morogoro,amcos
+C01069,Shukrani Tunu Transport Cooperative Society Ltd,Morogoro,other
+C01070,Imani Mining Cooperative Society Ltd,Morogoro,other
+C01071,Ziwa Sisal AMCOS Ltd,Morogoro,amcos
+C01072,Tafara Soybeans AMCOS Ltd,Morogoro,amcos
+C01073,Upendo Chick Peas AMCOS Ltd,Morogoro,amcos
+C01074,Nguvu Green Gram AMCOS Ltd,Morogoro,amcos
+C01075,Mbele Ziwa Chick Peas AMCOS Ltd,Morogoro,amcos
+C01076,Subira Cocoa AMCOS Ltd,Morogoro,amcos
+C01077,Azimio Maendeleo Coffee AMCOS Ltd,Morogoro,amcos
+C01078,Tunu Uhuru Sisal AMCOS Ltd,Morogoro,amcos
+C01079,Kilele Hazina Dairy Cooperative Society Ltd,Mtwara,other
+C01080,Mapinduzi Fishing Cooperative Society Ltd,Mtwara,other
+C01081,Azimio Tobacco AMCOS Ltd,Mtwara,amcos
+C01082,Mwanga SACCOS Ltd,Mtwara,saccos
+C01083,Tegemeo Tobacco AMCOS Ltd,Mtwara,amcos
+C01084,Upendo Cotton AMCOS Ltd,Mtwara,amcos
+C01085,Wafugaji Cocoa AMCOS Ltd,Mtwara,amcos
+C01086,Wafugaji Kijani Tea AMCOS Ltd,Mtwara,amcos
+C01087,Baraka Tea AMCOS Ltd,Mtwara,amcos
+C01088,Nguvu Sugarcane AMCOS Ltd,Mtwara,amcos
+C01089,Mlima Dairy Cooperative Society Ltd,Mtwara,other
+C01090,Kilele Youth Cooperative Society Ltd,Mtwara,other
+C01091,Bidii Mining Cooperative Society Ltd,Mtwara,other
+C01092,Tunu Housing Cooperative Society Ltd,Mtwara,other
+C01093,Ujamaa Pyrethrum AMCOS Ltd,Mtwara,amcos
+C01094,Ziwa Shukrani Women Cooperative Society Ltd,Mtwara,other
+C01095,Songa Ushindi Chick Peas AMCOS Ltd,Mtwara,amcos
+C01096,Upendo Irrigation Cooperative Society Ltd,Mtwara,other
+C01097,Wakulima Cashew AMCOS Ltd,Mtwara,amcos
+C01098,Kazi Kijiji Tobacco AMCOS Ltd,Mtwara,amcos
+C01099,Furaha Fishing Cooperative Society Ltd,Mtwara,other
+C01100,Pamoja Pyrethrum AMCOS Ltd,Mtwara,amcos
+C01101,Wakulima Baraka Fishing Cooperative Society Ltd,Mtwara,other
+C01102,Ziwa Mlima Mining Cooperative Society Ltd,Mtwara,other
+C01103,Zawadi Consumer Cooperative Society Ltd,Mtwara,other
+C01104,Mbele Azimio Maize AMCOS Ltd,Mtwara,amcos
+C01105,Nuru Uhuru Sesame AMCOS Ltd,Mtwara,amcos
+C01106,Mwanga Mining Cooperative Society Ltd,Mtwara,other
+C01107,Harambee Coffee AMCOS Ltd,Mtwara,amcos
+C01108,Zawadi Mwanga Maize AMCOS Ltd,Mtwara,amcos
+C01109,Amani Livestock Cooperative Society Ltd,Mtwara,other
+C01110,Umoja Heshima Green Gram AMCOS Ltd,Mtwara,amcos
+C01111,Wavuvi Sesame AMCOS Ltd,Mtwara,amcos
+C01112,Mshikamano Pamoja Cocoa AMCOS Ltd,Mtwara,amcos
+C01113,Nguvu Coffee AMCOS Ltd,Mtwara,amcos
+C01114,Jua Fishing Cooperative Society Ltd,Mtwara,other
+C01115,Mkombozi Sugarcane AMCOS Ltd,Mtwara,amcos
+C01116,Mapinduzi Tobacco AMCOS Ltd,Mtwara,amcos
+C01117,Songa Tunu Sisal AMCOS Ltd,Mtwara,amcos
+C01118,Tunu Pyrethrum AMCOS Ltd,Mtwara,amcos
+C01119,Upendo Wanawake Pyrethrum AMCOS Ltd,Mtwara,amcos
+C01120,Jua Tumaini Transport Cooperative Society Ltd,Mtwara,other
+C01121,Mwanga Chick Peas AMCOS Ltd,Mtwara,amcos
+C01122,Jitegemee Chemchem Cashew AMCOS Ltd,Mtwara,amcos
+C01123,Wavuvi Pyrethrum AMCOS Ltd,Mtwara,amcos
+C01124,Harambee Cocoa AMCOS Ltd,Mtwara,amcos
+C01125,Chemchem Sisal AMCOS Ltd,Mtwara,amcos
+C01126,Wanawake Kilele Mining Cooperative Society Ltd,Mtwara,other
+C01127,Subira Kilimo Housing Cooperative Society Ltd,Mtwara,other
+C01128,Mto Sisal AMCOS Ltd,Mtwara,amcos
+C01129,Tafara Mapinduzi Irrigation Cooperative Society Ltd,Mtwara,other
+C01130,Kilele Upendo Youth Cooperative Society Ltd,Mtwara,other
+C01131,Amka Zawadi Sesame AMCOS Ltd,Mtwara,amcos
+C01132,Mshikamano Dairy Cooperative Society Ltd,Mtwara,other
+C01133,Chemchem Furaha Youth Cooperative Society Ltd,Mtwara,other
+C01134,Furaha Mining Cooperative Society Ltd,Mtwara,other
+C01135,Tegemeo Dairy Cooperative Society Ltd,Mtwara,other
+C01136,Nguvu Mavuno Soybeans AMCOS Ltd,Mtwara,amcos
+C01137,Kilele Pamoja Dairy Cooperative Society Ltd,Mtwara,other
+C01138,Ziwa Cotton AMCOS Ltd,Mtwara,amcos
+C01139,Nuru Green Gram AMCOS Ltd,Mtwara,amcos
+C01140,Imani Tobacco AMCOS Ltd,Mtwara,amcos
+C01141,Kijiji Subira Livestock Cooperative Society Ltd,Mtwara,other
+C01142,Juhudi Dairy Cooperative Society Ltd,Mtwara,other
+C01143,Mapinduzi Cotton AMCOS Ltd,Mtwara,amcos
+C01144,Subira Livestock Cooperative Society Ltd,Mtwara,other
+C01145,Sifa Nguvu Dairy Cooperative Society Ltd,Mtwara,other
+C01146,Wavuvi Green Gram AMCOS Ltd,Mtwara,amcos
+C01147,Wakulima Youth Cooperative Society Ltd,Mtwara,other
+C01148,Ujamaa Mshikamano Cotton AMCOS Ltd,Mtwara,amcos
+C01149,Mkombozi Wafugaji Sisal AMCOS Ltd,Mtwara,amcos
+C01150,Jitegemee Youth Cooperative Society Ltd,Mtwara,other
+C01151,Songa Jua Mining Cooperative Society Ltd,Mtwara,other
+C01152,Jitegemee Women Cooperative Society Ltd,Mtwara,other
+C01153,Bonde Housing Cooperative Society Ltd,Mtwara,other
+C01154,Mwangaza Mbele Cashew AMCOS Ltd,Mtwara,amcos
+C01155,Hazina Ujamaa Livestock Cooperative Society Ltd,Mtwara,other
+C01156,Mwanga Livestock Cooperative Society Ltd,Mtwara,other
+C01157,Mshikamano Cocoa AMCOS Ltd,Mtwara,amcos
+C01158,Amani Cotton AMCOS Ltd,Mtwara,amcos
+C01159,Chemchem Tea AMCOS Ltd,Mtwara,amcos
+C01160,Heshima Hazina Livestock Cooperative Society Ltd,Mtwara,other
+C01161,Ujamaa Ziwa Youth Cooperative Society Ltd,Mtwara,other
+C01162,Baraka Mwanga Irrigation Cooperative Society Ltd,Mtwara,other
+C01163,Jua Pamoja Transport Cooperative Society Ltd,Mtwara,other
+C01164,Tegemeo Soybeans AMCOS Ltd,Mtwara,amcos
+C01165,Wanawake Tobacco AMCOS Ltd,Mtwara,amcos
+C01166,Kijiji Pigeon Peas AMCOS Ltd,Mtwara,amcos
+C01167,Pamoja Coffee AMCOS Ltd,Mtwara,amcos
+C01168,Wakulima Dairy Cooperative Society Ltd,Mtwara,other
+C01169,Imani Faraja Livestock Cooperative Society Ltd,Mtwara,other
+C01170,Pamoja Mavuno Dairy Cooperative Society Ltd,Mtwara,other
+C01171,Jua Tea AMCOS Ltd,Mtwara,amcos
+C01172,Bonde Fishing Cooperative Society Ltd,Mtwara,other
+C01173,Jitegemee Cashew AMCOS Ltd,Mtwara,amcos
+C01174,Mwangaza Youth Cooperative Society Ltd,Mtwara,other
+C01175,Neema Mwanga Fishing Cooperative Society Ltd,Mtwara,other
+C01176,Wakulima Mining Cooperative Society Ltd,Mtwara,other
+C01177,Songa Tea AMCOS Ltd,Mtwara,amcos
+C01178,Mshikamano Kijiji Cotton AMCOS Ltd,Mtwara,amcos
+C01179,Tafara Livestock Cooperative Society Ltd,Mtwara,other
+C01180,Mlima Jitegemee Dairy Cooperative Society Ltd,Mtwara,other
+C01181,Mkombozi Sesame AMCOS Ltd,Mtwara,amcos
+C01182,Kilimo Tea AMCOS Ltd,Mtwara,amcos
+C01183,Furaha Mshikamano Green Gram AMCOS Ltd,Mtwara,amcos
+C01184,Upendo Upendo Consumer Cooperative Society Ltd,Mtwara,other
+C01185,Tafara Neema Maize AMCOS Ltd,Mtwara,amcos
+C01186,Mwangaza Mavuno Soybeans AMCOS Ltd,Mtwara,amcos
+C01187,Pamoja Cashew AMCOS Ltd,Mtwara,amcos
+C01188,Neema Tobacco AMCOS Ltd,Mwanza,amcos
+C01189,Baraka Jitegemee Tea AMCOS Ltd,Mwanza,amcos
+C01190,Kilimo Ujamaa Soybeans AMCOS Ltd,Mwanza,amcos
+C01191,Kijani Livestock Cooperative Society Ltd,Mwanza,other
+C01192,Msingi Sesame AMCOS Ltd,Mwanza,amcos
+C01193,Maendeleo Mlima Youth Cooperative Society Ltd,Mwanza,other
+C01194,Sifa Cashew AMCOS Ltd,Mwanza,amcos
+C01195,Juhudi Sifa Cashew AMCOS Ltd,Mwanza,amcos
+C01196,Mlima Mavuno Chick Peas AMCOS Ltd,Mwanza,amcos
+C01197,Tafara Wavuvi Cashew AMCOS Ltd,Mwanza,amcos
+C01198,Maendeleo Soybeans AMCOS Ltd,Mwanza,amcos
+C01199,Mwangaza Shukrani Sisal AMCOS Ltd,Mwanza,amcos
+C01200,Chemchem Women Cooperative Society Ltd,Mwanza,other
+C01201,Chemchem Pamoja Mining Cooperative Society Ltd,Mwanza,other
+C01202,Shukrani Sisal AMCOS Ltd,Mwanza,amcos
+C01203,Baraka Cashew AMCOS Ltd,Mwanza,amcos
+C01204,Juhudi Tea AMCOS Ltd,Mwanza,amcos
+C01205,Uhuru Sesame AMCOS Ltd,Mwanza,amcos
+C01206,Kijiji Ujamaa SACCOS Ltd,Mwanza,saccos
+C01207,Mbele Mwanga Livestock Cooperative Society Ltd,Mwanza,other
+C01208,Furaha Green Gram AMCOS Ltd,Mwanza,amcos
+C01209,Azimio Imani Irrigation Cooperative Society Ltd,Mwanza,other
+C01210,Nuru Chemchem Women Cooperative Society Ltd,Mwanza,other
+C01211,Imani Chemchem Mining Cooperative Society Ltd,Mwanza,other
+C01212,Tafara Tea AMCOS Ltd,Mwanza,amcos
+C01213,Wanawake Coffee AMCOS Ltd,Mwanza,amcos
+C01214,Bidii Mavuno Green Gram AMCOS Ltd,Mwanza,amcos
+C01215,Tunu Cocoa AMCOS Ltd,Mwanza,amcos
+C01216,Uhuru Umoja Mining Cooperative Society Ltd,Mwanza,other
+C01217,Nuru Wafugaji Green Gram AMCOS Ltd,Mwanza,amcos
+C01218,Kilimo Kijiji Consumer Cooperative Society Ltd,Mwanza,other
+C01219,Subira Tafara Green Gram AMCOS Ltd,Mwanza,amcos
+C01220,Wafugaji Pigeon Peas AMCOS Ltd,Mwanza,amcos
+C01221,Mto Tegemeo SACCOS Ltd,Mwanza,saccos
+C01222,Mapinduzi Ridhaa Sugarcane AMCOS Ltd,Mwanza,amcos
+C01223,Hazina Chick Peas AMCOS Ltd,Mwanza,amcos
+C01224,Ridhaa Fishing Cooperative Society Ltd,Mwanza,other
+C01225,Pamoja Bonde Irrigation Cooperative Society Ltd,Mwanza,other
+C01226,Chemchem Heshima Tobacco AMCOS Ltd,Mwanza,amcos
+C01227,Kilele Kazi Soybeans AMCOS Ltd,Mwanza,amcos
+C01228,Ziwa Songa Irrigation Cooperative Society Ltd,Mwanza,other
+C01229,Msingi Chemchem Pigeon Peas AMCOS Ltd,Mwanza,amcos
+C01230,Mkombozi Maize AMCOS Ltd,Mwanza,amcos
+C01231,Bonde Tafara Maize AMCOS Ltd,Mwanza,amcos
+C01232,Vijana Pyrethrum AMCOS Ltd,Mwanza,amcos
+C01233,Harambee Soybeans AMCOS Ltd,Mwanza,amcos
+C01234,Subira Ziwa SACCOS Ltd,Mwanza,saccos
+C01235,Kijiji Sesame AMCOS Ltd,Mwanza,amcos
+C01236,Mkombozi Tea AMCOS Ltd,Mwanza,amcos
+C01237,Mwanga Faraja SACCOS Ltd,Mwanza,saccos
+C01238,Ushindi Tea AMCOS Ltd,Mwanza,amcos
+C01239,Tegemeo Bonde Fishing Cooperative Society Ltd,Mwanza,other
+C01240,Furaha Dairy Cooperative Society Ltd,Mwanza,other
+C01241,Hazina Mshikamano Cotton AMCOS Ltd,Mwanza,amcos
+C01242,Mto Harambee Housing Cooperative Society Ltd,Mwanza,other
+C01243,Neema Pyrethrum AMCOS Ltd,Mwanza,amcos
+C01244,Kazi Dairy Cooperative Society Ltd,Mwanza,other
+C01245,Kijiji Fishing Cooperative Society Ltd,Mwanza,other
+C01246,Songa Amani Soybeans AMCOS Ltd,Mwanza,amcos
+C01247,Vijana Maize AMCOS Ltd,Mwanza,amcos
+C01248,Faraja Sisal AMCOS Ltd,Mwanza,amcos
+C01249,Mwangaza Maize AMCOS Ltd,Mwanza,amcos
+C01250,Mavuno Women Cooperative Society Ltd,Mwanza,other
+C01251,Umoja Amani Tobacco AMCOS Ltd,Mwanza,amcos
+C01252,Msingi Women Cooperative Society Ltd,Mwanza,other
+C01253,Neema Sifa Pigeon Peas AMCOS Ltd,Mwanza,amcos
+C01254,Azimio Consumer Cooperative Society Ltd,Mwanza,other
+C01255,Mwangaza Tea AMCOS Ltd,Mwanza,amcos
+C01256,Mwanga Maize AMCOS Ltd,Mwanza,amcos
+C01257,Mkombozi Msingi Youth Cooperative Society Ltd,Mwanza,other
+C01258,Wanawake Consumer Cooperative Society Ltd,Mwanza,other
+C01259,Chemchem Pigeon Peas AMCOS Ltd,Mwanza,amcos
+C01260,Jua Kijani Livestock Cooperative Society Ltd,Mwanza,other
+C01261,Pamoja Sesame AMCOS Ltd,Mwanza,amcos
+C01262,Neema Mlima Fishing Cooperative Society Ltd,Mwanza,other
+C01263,Mto Livestock Cooperative Society Ltd,Mwanza,other
+C01264,Kilele Juhudi Cashew AMCOS Ltd,Mwanza,amcos
+C01265,Kijani Mapinduzi Livestock Cooperative Society Ltd,Mwanza,other
+C01266,Mavuno Jua Livestock Cooperative Society Ltd,Mwanza,other
+C01267,Msingi Nuru SACCOS Ltd,Mwanza,saccos
+C01268,Azimio Jitegemee Cotton AMCOS Ltd,Mwanza,amcos
+C01269,Amka Zawadi Cocoa AMCOS Ltd,Mwanza,amcos
+C01270,Vijana Housing Cooperative Society Ltd,Mwanza,other
+C01271,Sifa Azimio Irrigation Cooperative Society Ltd,Mwanza,other
+C01272,Mwangaza Housing Cooperative Society Ltd,Mwanza,other
+C01273,Mshikamano Transport Cooperative Society Ltd,Mwanza,other
+C01274,Bonde Ridhaa Cocoa AMCOS Ltd,Mwanza,amcos
+C01275,Pamoja Soybeans AMCOS Ltd,Mwanza,amcos
+C01276,Hazina Sisal AMCOS Ltd,Mwanza,amcos
+C01277,Wafugaji Transport Cooperative Society Ltd,Mwanza,other
+C01278,Kilele Housing Cooperative Society Ltd,Mwanza,other
+C01279,Kilimo Ushindi Sesame AMCOS Ltd,Mwanza,amcos
+C01280,Kijani Mining Cooperative Society Ltd,Mwanza,other
+C01281,Juhudi Housing Cooperative Society Ltd,Mwanza,other
+C01282,Wavuvi Umoja Dairy Cooperative Society Ltd,Njombe,other
+C01283,Ujamaa Ushindi Green Gram AMCOS Ltd,Njombe,amcos
+C01284,Mlima Maendeleo SACCOS Ltd,Njombe,saccos
+C01285,Mkombozi Ziwa Consumer Cooperative Society Ltd,Njombe,other
+C01286,Sifa Women Cooperative Society Ltd,Njombe,other
+C01287,Nguvu Ziwa Irrigation Cooperative Society Ltd,Njombe,other
+C01288,Tunu Sugarcane AMCOS Ltd,Njombe,amcos
+C01289,Baraka Tumaini Green Gram AMCOS Ltd,Njombe,amcos
+C01290,Tumaini Ridhaa Pigeon Peas AMCOS Ltd,Njombe,amcos
+C01291,Faraja Msingi SACCOS Ltd,Njombe,saccos
+C01292,Bonde Mwanga Fishing Cooperative Society Ltd,Njombe,other
+C01293,Upendo Wanawake Irrigation Cooperative Society Ltd,Njombe,other
+C01294,Mlima Upendo Cotton AMCOS Ltd,Njombe,amcos
+C01295,Mshikamano Consumer Cooperative Society Ltd,Njombe,other
+C01296,Umoja Irrigation Cooperative Society Ltd,Njombe,other
+C01297,Wafugaji Tegemeo Irrigation Cooperative Society Ltd,Njombe,other
+C01298,Juhudi Sisal AMCOS Ltd,Njombe,amcos
+C01299,Bonde Wafugaji Housing Cooperative Society Ltd,Njombe,other
+C01300,Neema Livestock Cooperative Society Ltd,Njombe,other
+C01301,Bonde Wavuvi SACCOS Ltd,Njombe,saccos
+C01302,Mbele Women Cooperative Society Ltd,Njombe,other
+C01303,Upendo Kijani Youth Cooperative Society Ltd,Njombe,other
+C01304,Msingi Livestock Cooperative Society Ltd,Njombe,other
+C01305,Amani Tumaini Soybeans AMCOS Ltd,Njombe,amcos
+C01306,Bonde Sisal AMCOS Ltd,Njombe,amcos
+C01307,Vijana Baraka SACCOS Ltd,Njombe,saccos
+C01308,Kilele Jua Cashew AMCOS Ltd,Njombe,amcos
+C01309,Pamoja Fishing Cooperative Society Ltd,Njombe,other
+C01310,Sifa Juhudi Transport Cooperative Society Ltd,Njombe,other
+C01311,Bidii Mto Cocoa AMCOS Ltd,Njombe,amcos
+C01312,Bidii Dairy Cooperative Society Ltd,Njombe,other
+C01313,Kazi Tobacco AMCOS Ltd,Njombe,amcos
+C01314,Vijana Ushindi Consumer Cooperative Society Ltd,Njombe,other
+C01315,Msingi Umoja SACCOS Ltd,Njombe,saccos
+C01316,Neema Cotton AMCOS Ltd,Njombe,amcos
+C01317,Jua Mshikamano Pyrethrum AMCOS Ltd,Njombe,amcos
+C01318,Jua Mwangaza Consumer Cooperative Society Ltd,Njombe,other
+C01319,Ujamaa Subira SACCOS Ltd,Njombe,saccos
+C01320,Hazina Pigeon Peas AMCOS Ltd,Njombe,amcos
+C01321,Tumaini Azimio SACCOS Ltd,Njombe,saccos
+C01322,Amka Cocoa AMCOS Ltd,Njombe,amcos
+C01323,Nguvu Sifa Irrigation Cooperative Society Ltd,Njombe,other
+C01324,Upendo Tumaini Women Cooperative Society Ltd,Njombe,other
+C01325,Uhuru Chick Peas AMCOS Ltd,Njombe,amcos
+C01326,Vijana Imani Housing Cooperative Society Ltd,Njombe,other
+C01327,Heshima Vijana Tobacco AMCOS Ltd,Njombe,amcos
+C01328,Harambee Kilele Maize AMCOS Ltd,Njombe,amcos
+C01329,Kazi Kijani SACCOS Ltd,Njombe,saccos
+C01330,Jitegemee Wanawake SACCOS Ltd,Njombe,saccos
+C01331,Jitegemee Pamoja Cocoa AMCOS Ltd,Njombe,amcos
+C01332,Hazina Mbele Cocoa AMCOS Ltd,Njombe,amcos
+C01333,Azimio Women Cooperative Society Ltd,Njombe,other
+C01334,Wanawake Fishing Cooperative Society Ltd,Njombe,other
+C01335,Vijana Cashew AMCOS Ltd,Njombe,amcos
+C01336,Wakulima Fishing Cooperative Society Ltd,Njombe,other
+C01337,Hazina Kijani Coffee AMCOS Ltd,Njombe,amcos
+C01338,Amani Soybeans AMCOS Ltd,Njombe,amcos
+C01339,Mlima Jua Cashew AMCOS Ltd,Njombe,amcos
+C01340,Mavuno Sesame AMCOS Ltd,Njombe,amcos
+C01341,Mto Mbele Tobacco AMCOS Ltd,Njombe,amcos
+C01342,Mbele Tegemeo Sesame AMCOS Ltd,Njombe,amcos
+C01343,Wavuvi Sugarcane AMCOS Ltd,Njombe,amcos
+C01344,Furaha Juhudi Chick Peas AMCOS Ltd,Njombe,amcos
+C01345,Kilimo Cashew AMCOS Ltd,Njombe,amcos
+C01346,Baraka Pyrethrum AMCOS Ltd,Njombe,amcos
+C01347,Mto Irrigation Cooperative Society Ltd,Njombe,other
+C01348,Kilele Soybeans AMCOS Ltd,Njombe,amcos
+C01349,Sifa Youth Cooperative Society Ltd,Njombe,other
+C01350,Mwangaza Baraka SACCOS Ltd,Njombe,saccos
+C01351,Kilimo Mshikamano Tea AMCOS Ltd,Njombe,amcos
+C01352,Chemchem Mwanga Dairy Cooperative Society Ltd,Pwani,other
+C01353,Mavuno Amani Youth Cooperative Society Ltd,Pwani,other
+C01354,Shukrani Maize AMCOS Ltd,Pwani,amcos
+C01355,Vijana Bonde Irrigation Cooperative Society Ltd,Pwani,other
+C01356,Mwanga Tobacco AMCOS Ltd,Pwani,amcos
+C01357,Azimio Azimio Pigeon Peas AMCOS Ltd,Pwani,amcos
+C01358,Mwangaza Women Cooperative Society Ltd,Pwani,other
+C01359,Uhuru Upendo Consumer Cooperative Society Ltd,Pwani,other
+C01360,Jitegemee Coffee AMCOS Ltd,Pwani,amcos
+C01361,Wafugaji Amani Pigeon Peas AMCOS Ltd,Pwani,amcos
+C01362,Tunu Pamoja Women Cooperative Society Ltd,Pwani,other
+C01363,Umoja Pyrethrum AMCOS Ltd,Pwani,amcos
+C01364,Mavuno Consumer Cooperative Society Ltd,Pwani,other
+C01365,Ziwa Wanawake Irrigation Cooperative Society Ltd,Pwani,other
+C01366,Jitegemee SACCOS Ltd,Pwani,saccos
+C01367,Amani Irrigation Cooperative Society Ltd,Pwani,other
+C01368,Mapinduzi Tumaini Coffee AMCOS Ltd,Pwani,amcos
+C01369,Vijana Livestock Cooperative Society Ltd,Pwani,other
+C01370,Imani Wafugaji Fishing Cooperative Society Ltd,Pwani,other
+C01371,Amka Cashew AMCOS Ltd,Pwani,amcos
+C01372,Mavuno Tafara Mining Cooperative Society Ltd,Pwani,other
+C01373,Neema Mbele Maize AMCOS Ltd,Pwani,amcos
+C01374,Ujamaa Vijana Cocoa AMCOS Ltd,Pwani,amcos
+C01375,Furaha Songa Green Gram AMCOS Ltd,Pwani,amcos
+C01376,Baraka Maize AMCOS Ltd,Pwani,amcos
+C01377,Neema Mlima Transport Cooperative Society Ltd,Pwani,other
+C01378,Imani Tegemeo Pigeon Peas AMCOS Ltd,Pwani,amcos
+C01379,Upendo Sesame AMCOS Ltd,Pwani,amcos
+C01380,Tafara Irrigation Cooperative Society Ltd,Pwani,other
+C01381,Maendeleo Transport Cooperative Society Ltd,Pwani,other
+C01382,Amani Kilimo Chick Peas AMCOS Ltd,Pwani,amcos
+C01383,Harambee Pigeon Peas AMCOS Ltd,Pwani,amcos
+C01384,Wanawake Nguvu SACCOS Ltd,Pwani,saccos
+C01385,Tumaini Pamoja Women Cooperative Society Ltd,Pwani,other
+C01386,Mapinduzi Kilimo Sisal AMCOS Ltd,Pwani,amcos
+C01387,Mapinduzi Mavuno Tobacco AMCOS Ltd,Pwani,amcos
+C01388,Baraka Women Cooperative Society Ltd,Pwani,other
+C01389,Hazina Hazina SACCOS Ltd,Pwani,saccos
+C01390,Bidii Livestock Cooperative Society Ltd,Pwani,other
+C01391,Kilimo Fishing Cooperative Society Ltd,Pwani,other
+C01392,Jitegemee Pigeon Peas AMCOS Ltd,Pwani,amcos
+C01393,Ujamaa Uhuru SACCOS Ltd,Rukwa,saccos
+C01394,Ridhaa Amani Cotton AMCOS Ltd,Rukwa,amcos
+C01395,Wakulima Soybeans AMCOS Ltd,Rukwa,amcos
+C01396,Tafara Ridhaa SACCOS Ltd,Rukwa,saccos
+C01397,Tafara Jitegemee Transport Cooperative Society Ltd,Rukwa,other
+C01398,Jua SACCOS Ltd,Rukwa,saccos
+C01399,Amani Dairy Cooperative Society Ltd,Rukwa,other
+C01400,Imani Azimio Consumer Cooperative Society Ltd,Rukwa,other
+C01401,Tumaini Dairy Cooperative Society Ltd,Rukwa,other
+C01402,Baraka Umoja Fishing Cooperative Society Ltd,Rukwa,other
+C01403,Mkombozi Imani Green Gram AMCOS Ltd,Rukwa,amcos
+C01404,Amani Amka Livestock Cooperative Society Ltd,Rukwa,other
+C01405,Vijana Uhuru Consumer Cooperative Society Ltd,Rukwa,other
+C01406,Furaha Women Cooperative Society Ltd,Rukwa,other
+C01407,Kazi Sisal AMCOS Ltd,Rukwa,amcos
+C01408,Ushindi Mapinduzi Transport Cooperative Society Ltd,Rukwa,other
+C01409,Bidii Maendeleo Pigeon Peas AMCOS Ltd,Rukwa,amcos
+C01410,Hazina Soybeans AMCOS Ltd,Rukwa,amcos
+C01411,Upendo Msingi SACCOS Ltd,Rukwa,saccos
+C01412,Heshima Tea AMCOS Ltd,Rukwa,amcos
+C01413,Harambee Baraka Irrigation Cooperative Society Ltd,Rukwa,other
+C01414,Shukrani Sugarcane AMCOS Ltd,Rukwa,amcos
+C01415,Kijiji Sugarcane AMCOS Ltd,Rukwa,amcos
+C01416,Azimio Housing Cooperative Society Ltd,Rukwa,other
+C01417,Nuru Tunu Chick Peas AMCOS Ltd,Rukwa,amcos
+C01418,Nguvu Cocoa AMCOS Ltd,Rukwa,amcos
+C01419,Amani Tumaini Irrigation Cooperative Society Ltd,Rukwa,other
+C01420,Mto Mwangaza Sisal AMCOS Ltd,Rukwa,amcos
+C01421,Bidii Kilele Sugarcane AMCOS Ltd,Rukwa,amcos
+C01422,Azimio Pigeon Peas AMCOS Ltd,Rukwa,amcos
+C01423,Hazina Harambee Fishing Cooperative Society Ltd,Rukwa,other
+C01424,Tegemeo Irrigation Cooperative Society Ltd,Rukwa,other
+C01425,Pamoja Mwangaza Tea AMCOS Ltd,Rukwa,amcos
+C01426,Tunu Kijiji Maize AMCOS Ltd,Rukwa,amcos
+C01427,Jitegemee Tegemeo Chick Peas AMCOS Ltd,Rukwa,amcos
+C01428,Nuru Nguvu Maize AMCOS Ltd,Rukwa,amcos
+C01429,Bidii Vijana SACCOS Ltd,Ruvuma,saccos
+C01430,Shukrani Consumer Cooperative Society Ltd,Ruvuma,other
+C01431,Mapinduzi Subira Sisal AMCOS Ltd,Ruvuma,amcos
+C01432,Tafara Fishing Cooperative Society Ltd,Ruvuma,other
+C01433,Songa Juhudi Pyrethrum AMCOS Ltd,Ruvuma,amcos
+C01434,Bidii Ziwa Consumer Cooperative Society Ltd,Ruvuma,other
+C01435,Chemchem Transport Cooperative Society Ltd,Ruvuma,other
+C01436,Msingi Mto Pigeon Peas AMCOS Ltd,Ruvuma,amcos
+C01437,Kilele Harambee Sisal AMCOS Ltd,Ruvuma,amcos
+C01438,Amka Tea AMCOS Ltd,Ruvuma,amcos
+C01439,Wafugaji Nguvu SACCOS Ltd,Ruvuma,saccos
+C01440,Juhudi Wanawake Irrigation Cooperative Society Ltd,Ruvuma,other
+C01441,Harambee Azimio Tea AMCOS Ltd,Ruvuma,amcos
+C01442,Tafara Sisal AMCOS Ltd,Ruvuma,amcos
+C01443,Wafugaji Ujamaa Sesame AMCOS Ltd,Ruvuma,amcos
+C01444,Mbele Kijiji Cocoa AMCOS Ltd,Ruvuma,amcos
+C01445,Kijani Green Gram AMCOS Ltd,Ruvuma,amcos
+C01446,Pamoja Mshikamano Livestock Cooperative Society Ltd,Ruvuma,other
+C01447,Ridhaa Uhuru Sesame AMCOS Ltd,Ruvuma,amcos
+C01448,Amani Ridhaa Pigeon Peas AMCOS Ltd,Ruvuma,amcos
+C01449,Upendo Kilimo Cotton AMCOS Ltd,Ruvuma,amcos
+C01450,Bonde Irrigation Cooperative Society Ltd,Ruvuma,other
+C01451,Azimio Songa Housing Cooperative Society Ltd,Ruvuma,other
+C01452,Mkombozi Baraka Transport Cooperative Society Ltd,Ruvuma,other
+C01453,Shukrani Chick Peas AMCOS Ltd,Ruvuma,amcos
+C01454,Nguvu Sesame AMCOS Ltd,Ruvuma,amcos
+C01455,Maendeleo Tea AMCOS Ltd,Ruvuma,amcos
+C01456,Vijana Youth Cooperative Society Ltd,Ruvuma,other
+C01457,Harambee Ushindi Cotton AMCOS Ltd,Ruvuma,amcos
+C01458,Mwanga Dairy Cooperative Society Ltd,Ruvuma,other
+C01459,Msingi Fishing Cooperative Society Ltd,Ruvuma,other
+C01460,Bonde Tea AMCOS Ltd,Ruvuma,amcos
+C01461,Kazi Mining Cooperative Society Ltd,Ruvuma,other
+C01462,Songa Mwanga Tobacco AMCOS Ltd,Ruvuma,amcos
+C01463,Furaha Pigeon Peas AMCOS Ltd,Ruvuma,amcos
+C01464,Mlima Sifa Transport Cooperative Society Ltd,Ruvuma,other
+C01465,Azimio Songa Sugarcane AMCOS Ltd,Ruvuma,amcos
+C01466,Msingi Tea AMCOS Ltd,Ruvuma,amcos
+C01467,Juhudi Fishing Cooperative Society Ltd,Ruvuma,other
+C01468,Ridhaa Nguvu Green Gram AMCOS Ltd,Ruvuma,amcos
+C01469,Ujamaa Housing Cooperative Society Ltd,Ruvuma,other
+C01470,Pamoja Women Cooperative Society Ltd,Ruvuma,other
+C01471,Faraja Tafara Chick Peas AMCOS Ltd,Ruvuma,amcos
+C01472,Maendeleo Wakulima Women Cooperative Society Ltd,Ruvuma,other
+C01473,Amka Green Gram AMCOS Ltd,Ruvuma,amcos
+C01474,Imani Kazi Tobacco AMCOS Ltd,Ruvuma,amcos
+C01475,Tegemeo Youth Cooperative Society Ltd,Ruvuma,other
+C01476,Amani Consumer Cooperative Society Ltd,Ruvuma,other
+C01477,Mlima Neema Youth Cooperative Society Ltd,Ruvuma,other
+C01478,Kilele Chick Peas AMCOS Ltd,Ruvuma,amcos
+C01479,Kazi Wanawake Soybeans AMCOS Ltd,Ruvuma,amcos
+C01480,Ridhaa Soybeans AMCOS Ltd,Ruvuma,amcos
+C01481,Furaha Songa Livestock Cooperative Society Ltd,Ruvuma,other
+C01482,Amka Furaha Livestock Cooperative Society Ltd,Ruvuma,other
+C01483,Azimio Mavuno Youth Cooperative Society Ltd,Ruvuma,other
+C01484,Mto Pigeon Peas AMCOS Ltd,Ruvuma,amcos
+C01485,Mto Tegemeo Consumer Cooperative Society Ltd,Ruvuma,other
+C01486,Nguvu Wavuvi SACCOS Ltd,Ruvuma,saccos
+C01487,Juhudi Green Gram AMCOS Ltd,Ruvuma,amcos
+C01488,Upendo Pyrethrum AMCOS Ltd,Ruvuma,amcos
+C01489,Neema Wakulima Cotton AMCOS Ltd,Ruvuma,amcos
+C01490,Maendeleo Jitegemee Tea AMCOS Ltd,Ruvuma,amcos
+C01491,Mbele Shukrani Livestock Cooperative Society Ltd,Ruvuma,other
+C01492,Wakulima Uhuru Pigeon Peas AMCOS Ltd,Ruvuma,amcos
+C01493,Ziwa Coffee AMCOS Ltd,Ruvuma,amcos
+C01494,Mshikamano Mwangaza SACCOS Ltd,Ruvuma,saccos
+C01495,Nguvu Pamoja Tobacco AMCOS Ltd,Ruvuma,amcos
+C01496,Msingi Mapinduzi Mining Cooperative Society Ltd,Ruvuma,other
+C01497,Songa Mapinduzi Tea AMCOS Ltd,Ruvuma,amcos
+C01498,Mavuno Uhuru Livestock Cooperative Society Ltd,Ruvuma,other
+C01499,Wanawake Sesame AMCOS Ltd,Ruvuma,amcos
+C01500,Umoja Maize AMCOS Ltd,Ruvuma,amcos
+C01501,Baraka Msingi Housing Cooperative Society Ltd,Ruvuma,other
+C01502,Amani Mto Green Gram AMCOS Ltd,Ruvuma,amcos
+C01503,Vijana Green Gram AMCOS Ltd,Ruvuma,amcos
+C01504,Mshikamano Pamoja Irrigation Cooperative Society Ltd,Ruvuma,other
+C01505,Umoja Upendo Irrigation Cooperative Society Ltd,Ruvuma,other
+C01506,Bidii Consumer Cooperative Society Ltd,Shinyanga,other
+C01507,Jitegemee Tumaini Livestock Cooperative Society Ltd,Shinyanga,other
+C01508,Amani Sugarcane AMCOS Ltd,Shinyanga,amcos
+C01509,Faraja Hazina Women Cooperative Society Ltd,Shinyanga,other
+C01510,Maendeleo Sifa Sugarcane AMCOS Ltd,Shinyanga,amcos
+C01511,Ziwa Kazi Pigeon Peas AMCOS Ltd,Shinyanga,amcos
+C01512,Mwanga Sesame AMCOS Ltd,Shinyanga,amcos
+C01513,Mkombozi Housing Cooperative Society Ltd,Shinyanga,other
+C01514,Kilele Mlima Cashew AMCOS Ltd,Shinyanga,amcos
+C01515,Nuru Pamoja Women Cooperative Society Ltd,Shinyanga,other
+C01516,Mavuno Sugarcane AMCOS Ltd,Shinyanga,amcos
+C01517,Chemchem Jitegemee Livestock Cooperative Society Ltd,Shinyanga,other
+C01518,Shukrani Harambee Cashew AMCOS Ltd,Shinyanga,amcos
+C01519,Wavuvi Upendo Pyrethrum AMCOS Ltd,Shinyanga,amcos
+C01520,Zawadi Cocoa AMCOS Ltd,Shinyanga,amcos
+C01521,Shukrani Tobacco AMCOS Ltd,Shinyanga,amcos
+C01522,Kijiji Vijana Irrigation Cooperative Society Ltd,Shinyanga,other
+C01523,Kilele Tobacco AMCOS Ltd,Shinyanga,amcos
+C01524,Zawadi Sisal AMCOS Ltd,Shinyanga,amcos
+C01525,Faraja Uhuru Irrigation Cooperative Society Ltd,Shinyanga,other
+C01526,Sifa Jitegemee Coffee AMCOS Ltd,Shinyanga,amcos
+C01527,Maendeleo Youth Cooperative Society Ltd,Shinyanga,other
+C01528,Amka Chemchem Youth Cooperative Society Ltd,Shinyanga,other
+C01529,Harambee Mining Cooperative Society Ltd,Shinyanga,other
+C01530,Imani Tunu Pigeon Peas AMCOS Ltd,Shinyanga,amcos
+C01531,Harambee Uhuru Irrigation Cooperative Society Ltd,Shinyanga,other
+C01532,Msingi Consumer Cooperative Society Ltd,Shinyanga,other
+C01533,Subira Wanawake Transport Cooperative Society Ltd,Shinyanga,other
+C01534,Tumaini Ushindi Transport Cooperative Society Ltd,Shinyanga,other
+C01535,Kijani Pigeon Peas AMCOS Ltd,Shinyanga,amcos
+C01536,Faraja Sesame AMCOS Ltd,Shinyanga,amcos
+C01537,Kijiji Amani Green Gram AMCOS Ltd,Shinyanga,amcos
+C01538,Wavuvi Bonde Pigeon Peas AMCOS Ltd,Shinyanga,amcos
+C01539,Mavuno Pigeon Peas AMCOS Ltd,Shinyanga,amcos
+C01540,Juhudi Irrigation Cooperative Society Ltd,Shinyanga,other
+C01541,Kilele Jua Irrigation Cooperative Society Ltd,Shinyanga,other
+C01542,Jitegemee Uhuru Chick Peas AMCOS Ltd,Shinyanga,amcos
+C01543,Subira Tumaini Housing Cooperative Society Ltd,Shinyanga,other
+C01544,Mbele Mto Tea AMCOS Ltd,Shinyanga,amcos
+C01545,Baraka Maendeleo Chick Peas AMCOS Ltd,Shinyanga,amcos
+C01546,Wavuvi Nguvu Housing Cooperative Society Ltd,Shinyanga,other
+C01547,Tunu Mbele Tobacco AMCOS Ltd,Shinyanga,amcos
+C01548,Ziwa Tumaini Irrigation Cooperative Society Ltd,Shinyanga,other
+C01549,Sifa Fishing Cooperative Society Ltd,Shinyanga,other
+C01550,Ushindi Maendeleo Housing Cooperative Society Ltd,Shinyanga,other
+C01551,Uhuru Mining Cooperative Society Ltd,Shinyanga,other
+C01552,Msingi Sisal AMCOS Ltd,Shinyanga,amcos
+C01553,Kazi Jitegemee Coffee AMCOS Ltd,Shinyanga,amcos
+C01554,Nuru Kilimo Sugarcane AMCOS Ltd,Shinyanga,amcos
+C01555,Hazina Coffee AMCOS Ltd,Shinyanga,amcos
+C01556,Jitegemee Maize AMCOS Ltd,Shinyanga,amcos
+C01557,Neema Faraja Women Cooperative Society Ltd,Shinyanga,other
+C01558,Harambee Hazina SACCOS Ltd,Shinyanga,saccos
+C01559,Bonde Wanawake Sisal AMCOS Ltd,Shinyanga,amcos
+C01560,Kijiji Livestock Cooperative Society Ltd,Shinyanga,other
+C01561,Songa Zawadi Green Gram AMCOS Ltd,Shinyanga,amcos
+C01562,Mshikamano Coffee AMCOS Ltd,Shinyanga,amcos
+C01563,Jua Sifa Transport Cooperative Society Ltd,Shinyanga,other
+C01564,Tunu Tafara Pyrethrum AMCOS Ltd,Shinyanga,amcos
+C01565,Juhudi Women Cooperative Society Ltd,Shinyanga,other
+C01566,Wakulima Chick Peas AMCOS Ltd,Shinyanga,amcos
+C01567,Nuru Sugarcane AMCOS Ltd,Shinyanga,amcos
+C01568,Mlima Amani Mining Cooperative Society Ltd,Shinyanga,other
+C01569,Vijana Shukrani Transport Cooperative Society Ltd,Shinyanga,other
+C01570,Nuru Tumaini Livestock Cooperative Society Ltd,Shinyanga,other
+C01571,Bonde Sesame AMCOS Ltd,Shinyanga,amcos
+C01572,Zawadi Juhudi Consumer Cooperative Society Ltd,Shinyanga,other
+C01573,Amka Cotton AMCOS Ltd,Shinyanga,amcos
+C01574,Ziwa Women Cooperative Society Ltd,Shinyanga,other
+C01575,Kazi Maize AMCOS Ltd,Shinyanga,amcos
+C01576,Mbele Furaha Green Gram AMCOS Ltd,Shinyanga,amcos
+C01577,Tunu Pigeon Peas AMCOS Ltd,Shinyanga,amcos
+C01578,Mlima Tobacco AMCOS Ltd,Shinyanga,amcos
+C01579,Mshikamano Pigeon Peas AMCOS Ltd,Shinyanga,amcos
+C01580,Maendeleo Cashew AMCOS Ltd,Shinyanga,amcos
+C01581,Zawadi Wavuvi Chick Peas AMCOS Ltd,Shinyanga,amcos
+C01582,Mkombozi Green Gram AMCOS Ltd,Shinyanga,amcos
+C01583,Wanawake Wakulima Green Gram AMCOS Ltd,Shinyanga,amcos
+C01584,Tafara Pigeon Peas AMCOS Ltd,Simiyu,amcos
+C01585,Amani Sesame AMCOS Ltd,Simiyu,amcos
+C01586,Ujamaa Tafara Youth Cooperative Society Ltd,Simiyu,other
+C01587,Wavuvi Songa Pigeon Peas AMCOS Ltd,Simiyu,amcos
+C01588,Wanawake Mwanga Transport Cooperative Society Ltd,Simiyu,other
+C01589,Hazina Mlima Pigeon Peas AMCOS Ltd,Simiyu,amcos
+C01590,Tegemeo Faraja Cashew AMCOS Ltd,Simiyu,amcos
+C01591,Ziwa Fishing Cooperative Society Ltd,Simiyu,other
+C01592,Songa Amani Sugarcane AMCOS Ltd,Simiyu,amcos
+C01593,Tunu Chick Peas AMCOS Ltd,Simiyu,amcos
+C01594,Wakulima Chemchem Cashew AMCOS Ltd,Simiyu,amcos
+C01595,Wafugaji Cashew AMCOS Ltd,Simiyu,amcos
+C01596,Harambee Amani Housing Cooperative Society Ltd,Simiyu,other
+C01597,Tegemeo Maendeleo Mining Cooperative Society Ltd,Simiyu,other
+C01598,Uhuru Mwangaza Chick Peas AMCOS Ltd,Simiyu,amcos
+C01599,Mshikamano Ujamaa Dairy Cooperative Society Ltd,Simiyu,other
+C01600,Tumaini Ushindi Maize AMCOS Ltd,Simiyu,amcos
+C01601,Bidii Ridhaa Dairy Cooperative Society Ltd,Simiyu,other
+C01602,Imani Mkombozi Pigeon Peas AMCOS Ltd,Simiyu,amcos
+C01603,Kilimo Pamoja Chick Peas AMCOS Ltd,Simiyu,amcos
+C01604,Chemchem Mlima Tobacco AMCOS Ltd,Simiyu,amcos
+C01605,Amani Vijana Youth Cooperative Society Ltd,Simiyu,other
+C01606,Nuru Mshikamano Cocoa AMCOS Ltd,Simiyu,amcos
+C01607,Azimio Harambee Mining Cooperative Society Ltd,Simiyu,other
+C01608,Mwanga Ridhaa Tea AMCOS Ltd,Simiyu,amcos
+C01609,Kilele Uhuru SACCOS Ltd,Simiyu,saccos
+C01610,Chemchem Nguvu Transport Cooperative Society Ltd,Simiyu,other
+C01611,Mapinduzi Tea AMCOS Ltd,Simiyu,amcos
+C01612,Nuru Uhuru Consumer Cooperative Society Ltd,Simiyu,other
+C01613,Baraka Faraja Women Cooperative Society Ltd,Simiyu,other
+C01614,Furaha Housing Cooperative Society Ltd,Simiyu,other
+C01615,Mbele Cotton AMCOS Ltd,Simiyu,amcos
+C01616,Bidii Pamoja Housing Cooperative Society Ltd,Simiyu,other
+C01617,Amani Tobacco AMCOS Ltd,Simiyu,amcos
+C01618,Neema Fishing Cooperative Society Ltd,Simiyu,other
+C01619,Wafugaji Shukrani Irrigation Cooperative Society Ltd,Simiyu,other
+C01620,Mto Ridhaa Sesame AMCOS Ltd,Simiyu,amcos
+C01621,Mapinduzi Dairy Cooperative Society Ltd,Simiyu,other
+C01622,Umoja Amani Housing Cooperative Society Ltd,Simiyu,other
+C01623,Imani Kilele Youth Cooperative Society Ltd,Simiyu,other
+C01624,Kilimo Consumer Cooperative Society Ltd,Simiyu,other
+C01625,Furaha Ridhaa Fishing Cooperative Society Ltd,Simiyu,other
+C01626,Songa Nuru Pyrethrum AMCOS Ltd,Simiyu,amcos
+C01627,Imani Sisal AMCOS Ltd,Simiyu,amcos
+C01628,Zawadi Nguvu Youth Cooperative Society Ltd,Simiyu,other
+C01629,Mbele Youth Cooperative Society Ltd,Simiyu,other
+C01630,Kilele Wavuvi Dairy Cooperative Society Ltd,Simiyu,other
+C01631,Harambee Dairy Cooperative Society Ltd,Simiyu,other
+C01632,Amka Maize AMCOS Ltd,Simiyu,amcos
+C01633,Kilimo Wakulima Green Gram AMCOS Ltd,Simiyu,amcos
+C01634,Tumaini Ujamaa Green Gram AMCOS Ltd,Simiyu,amcos
+C01635,Wanawake Youth Cooperative Society Ltd,Simiyu,other
+C01636,Jua Coffee AMCOS Ltd,Simiyu,amcos
+C01637,Imani Tafara Sisal AMCOS Ltd,Simiyu,amcos
+C01638,Ushindi Harambee Consumer Cooperative Society Ltd,Simiyu,other
+C01639,Subira Subira Dairy Cooperative Society Ltd,Simiyu,other
+C01640,Ridhaa Azimio Chick Peas AMCOS Ltd,Simiyu,amcos
+C01641,Mlima Cashew AMCOS Ltd,Simiyu,amcos
+C01642,Upendo Fishing Cooperative Society Ltd,Simiyu,other
+C01643,Azimio Sifa Cotton AMCOS Ltd,Simiyu,amcos
+C01644,Faraja Hazina Tea AMCOS Ltd,Simiyu,amcos
+C01645,Mkombozi Irrigation Cooperative Society Ltd,Simiyu,other
+C01646,Tegemeo Sesame AMCOS Ltd,Simiyu,amcos
+C01647,Kilele Bonde Dairy Cooperative Society Ltd,Simiyu,other
+C01648,Ushindi Kijiji Sugarcane AMCOS Ltd,Simiyu,amcos
+C01649,Shukrani Wanawake Pyrethrum AMCOS Ltd,Simiyu,amcos
+C01650,Mwanga Jitegemee Dairy Cooperative Society Ltd,Simiyu,other
+C01651,Jitegemee Harambee Sisal AMCOS Ltd,Simiyu,amcos
+C01652,Hazina Pyrethrum AMCOS Ltd,Simiyu,amcos
+C01653,Tunu Chemchem Green Gram AMCOS Ltd,Simiyu,amcos
+C01654,Vijana Coffee AMCOS Ltd,Simiyu,amcos
+C01655,Harambee Imani Youth Cooperative Society Ltd,Simiyu,other
+C01656,Juhudi Cocoa AMCOS Ltd,Simiyu,amcos
+C01657,Ushindi Dairy Cooperative Society Ltd,Simiyu,other
+C01658,Msingi Umoja Youth Cooperative Society Ltd,Simiyu,other
+C01659,Tunu Soybeans AMCOS Ltd,Simiyu,amcos
+C01660,Tegemeo Mwangaza Dairy Cooperative Society Ltd,Simiyu,other
+C01661,Kazi Mapinduzi Chick Peas AMCOS Ltd,Simiyu,amcos
+C01662,Mshikamano Imani Housing Cooperative Society Ltd,Simiyu,other
+C01663,Mwangaza Nguvu Housing Cooperative Society Ltd,Simiyu,other
+C01664,Mwangaza Dairy Cooperative Society Ltd,Simiyu,other
+C01665,Mbele Furaha Coffee AMCOS Ltd,Simiyu,amcos
+C01666,Maendeleo Jitegemee Youth Cooperative Society Ltd,Simiyu,other
+C01667,Mlima Mining Cooperative Society Ltd,Simiyu,other
+C01668,Azimio Fishing Cooperative Society Ltd,Simiyu,other
+C01669,Kazi Green Gram AMCOS Ltd,Simiyu,amcos
+C01670,Chemchem Faraja Consumer Cooperative Society Ltd,Simiyu,other
+C01671,Bonde Heshima Irrigation Cooperative Society Ltd,Simiyu,other
+C01672,Songa Furaha Tobacco AMCOS Ltd,Simiyu,amcos
+C01673,Upendo Transport Cooperative Society Ltd,Simiyu,other
+C01674,Mwanga Sugarcane AMCOS Ltd,Simiyu,amcos
+C01675,Msingi Tegemeo SACCOS Ltd,Simiyu,saccos
+C01676,Mwanga Bonde Tobacco AMCOS Ltd,Simiyu,amcos
+C01677,Neema Nuru Sisal AMCOS Ltd,Singida,amcos
+C01678,Maendeleo Upendo Green Gram AMCOS Ltd,Singida,amcos
+C01679,Ridhaa Youth Cooperative Society Ltd,Singida,other
+C01680,Amka Livestock Cooperative Society Ltd,Singida,other
+C01681,Umoja Green Gram AMCOS Ltd,Singida,amcos
+C01682,Hazina Youth Cooperative Society Ltd,Singida,other
+C01683,Heshima Coffee AMCOS Ltd,Singida,amcos
+C01684,Wakulima Pigeon Peas AMCOS Ltd,Singida,amcos
+C01685,Kijani Chick Peas AMCOS Ltd,Singida,amcos
+C01686,Bidii Soybeans AMCOS Ltd,Singida,amcos
+C01687,Ujamaa Mwanga Dairy Cooperative Society Ltd,Singida,other
+C01688,Kazi Songa SACCOS Ltd,Singida,saccos
+C01689,Zawadi Sifa Green Gram AMCOS Ltd,Singida,amcos
+C01690,Juhudi Harambee Transport Cooperative Society Ltd,Singida,other
+C01691,Hazina Green Gram AMCOS Ltd,Singida,amcos
+C01692,Vijana Azimio SACCOS Ltd,Singida,saccos
+C01693,Jitegemee Juhudi Sugarcane AMCOS Ltd,Singida,amcos
+C01694,Tegemeo Faraja SACCOS Ltd,Singida,saccos
+C01695,Tegemeo Ushindi Pigeon Peas AMCOS Ltd,Singida,amcos
+C01696,Imani Tegemeo Coffee AMCOS Ltd,Singida,amcos
+C01697,Bidii Cocoa AMCOS Ltd,Singida,amcos
+C01698,Maendeleo Ujamaa Chick Peas AMCOS Ltd,Singida,amcos
+C01699,Tegemeo Women Cooperative Society Ltd,Singida,other
+C01700,Songa Harambee Irrigation Cooperative Society Ltd,Singida,other
+C01701,Uhuru Consumer Cooperative Society Ltd,Singida,other
+C01702,Imani Livestock Cooperative Society Ltd,Singida,other
+C01703,Imani Mshikamano Tea AMCOS Ltd,Singida,amcos
+C01704,Faraja Green Gram AMCOS Ltd,Singida,amcos
+C01705,Upendo Tobacco AMCOS Ltd,Singida,amcos
+C01706,Pamoja Shukrani Livestock Cooperative Society Ltd,Singida,other
+C01707,Ujamaa Kilele Irrigation Cooperative Society Ltd,Singida,other
+C01708,Ushindi Youth Cooperative Society Ltd,Singida,other
+C01709,Mbele Sisal AMCOS Ltd,Songwe,amcos
+C01710,Wafugaji Baraka Youth Cooperative Society Ltd,Songwe,other
+C01711,Kazi Ushindi Sugarcane AMCOS Ltd,Songwe,amcos
+C01712,Nuru Amani Soybeans AMCOS Ltd,Songwe,amcos
+C01713,Nguvu Jitegemee Soybeans AMCOS Ltd,Songwe,amcos
+C01714,Ziwa Mwanga Tea AMCOS Ltd,Songwe,amcos
+C01715,Mkombozi Mavuno Soybeans AMCOS Ltd,Songwe,amcos
+C01716,Faraja Ziwa Livestock Cooperative Society Ltd,Songwe,other
+C01717,Mshikamano Soybeans AMCOS Ltd,Songwe,amcos
+C01718,Jua Mlima Fishing Cooperative Society Ltd,Songwe,other
+C01719,Umoja Tegemeo Youth Cooperative Society Ltd,Songwe,other
+C01720,Kazi Cashew AMCOS Ltd,Songwe,amcos
+C01721,Ujamaa Umoja Coffee AMCOS Ltd,Songwe,amcos
+C01722,Kijani Ujamaa Tea AMCOS Ltd,Songwe,amcos
+C01723,Bidii Mlima Coffee AMCOS Ltd,Songwe,amcos
+C01724,Furaha Bidii Maize AMCOS Ltd,Songwe,amcos
+C01725,Bonde Tegemeo Coffee AMCOS Ltd,Songwe,amcos
+C01726,Kazi Mbele Cotton AMCOS Ltd,Songwe,amcos
+C01727,Kijiji Consumer Cooperative Society Ltd,Songwe,other
+C01728,Uhuru Ushindi Sisal AMCOS Ltd,Songwe,amcos
+C01729,Juhudi Hazina Housing Cooperative Society Ltd,Songwe,other
+C01730,Umoja Kilele Fishing Cooperative Society Ltd,Songwe,other
+C01731,Tafara Harambee Consumer Cooperative Society Ltd,Songwe,other
+C01732,Neema Kazi Coffee AMCOS Ltd,Songwe,amcos
+C01733,Mshikamano Youth Cooperative Society Ltd,Songwe,other
+C01734,Kijani Housing Cooperative Society Ltd,Songwe,other
+C01735,Jitegemee Bonde Dairy Cooperative Society Ltd,Songwe,other
+C01736,Mavuno Soybeans AMCOS Ltd,Songwe,amcos
+C01737,Juhudi Furaha Tobacco AMCOS Ltd,Songwe,amcos
+C01738,Ziwa Youth Cooperative Society Ltd,Songwe,other
+C01739,Mwanga Pigeon Peas AMCOS Ltd,Songwe,amcos
+C01740,Furaha Mwangaza Tea AMCOS Ltd,Songwe,amcos
+C01741,Azimio Chick Peas AMCOS Ltd,Songwe,amcos
+C01742,Imani Mwangaza Cotton AMCOS Ltd,Songwe,amcos
+C01743,Mavuno Youth Cooperative Society Ltd,Songwe,other
+C01744,Kilimo Green Gram AMCOS Ltd,Songwe,amcos
+C01745,Nuru Cocoa AMCOS Ltd,Songwe,amcos
+C01746,Ridhaa Sugarcane AMCOS Ltd,Songwe,amcos
+C01747,Mwangaza Pamoja Cotton AMCOS Ltd,Songwe,amcos
+C01748,Jitegemee Tobacco AMCOS Ltd,Songwe,amcos
+C01749,Imani Songa Soybeans AMCOS Ltd,Songwe,amcos
+C01750,Vijana Mbele Tobacco AMCOS Ltd,Songwe,amcos
+C01751,Maendeleo Coffee AMCOS Ltd,Songwe,amcos
+C01752,Mlima Transport Cooperative Society Ltd,Songwe,other
+C01753,Ridhaa Dairy Cooperative Society Ltd,Songwe,other
+C01754,Jua Sesame AMCOS Ltd,Songwe,amcos
+C01755,Mkombozi Women Cooperative Society Ltd,Songwe,other
+C01756,Umoja Neema Transport Cooperative Society Ltd,Songwe,other
+C01757,Shukrani Mining Cooperative Society Ltd,Songwe,other
+C01758,Wafugaji Cotton AMCOS Ltd,Songwe,amcos
+C01759,Ridhaa Zawadi Soybeans AMCOS Ltd,Songwe,amcos
+C01760,Bonde Harambee Green Gram AMCOS Ltd,Songwe,amcos
+C01761,Mwangaza Cocoa AMCOS Ltd,Songwe,amcos
+C01762,Furaha Tumaini Youth Cooperative Society Ltd,Songwe,other
+C01763,Nguvu Irrigation Cooperative Society Ltd,Songwe,other
+C01764,Uhuru Neema Cotton AMCOS Ltd,Songwe,amcos
+C01765,Baraka Vijana Pigeon Peas AMCOS Ltd,Songwe,amcos
+C01766,Hazina Msingi Green Gram AMCOS Ltd,Songwe,amcos
+C01767,Ziwa Green Gram AMCOS Ltd,Songwe,amcos
+C01768,Songa Ushindi SACCOS Ltd,Songwe,saccos
+C01769,Songa Women Cooperative Society Ltd,Songwe,other
+C01770,Zawadi Mwanga Pigeon Peas AMCOS Ltd,Songwe,amcos
+C01771,Faraja Housing Cooperative Society Ltd,Songwe,other
+C01772,Harambee Irrigation Cooperative Society Ltd,Songwe,other
+C01773,Ziwa Transport Cooperative Society Ltd,Songwe,other
+C01774,Mbele Mining Cooperative Society Ltd,Songwe,other
+C01775,Upendo Azimio Tea AMCOS Ltd,Songwe,amcos
+C01776,Kijani Chemchem Fishing Cooperative Society Ltd,Songwe,other
+C01777,Ziwa Wafugaji Irrigation Cooperative Society Ltd,Songwe,other
+C01778,Neema Coffee AMCOS Ltd,Tabora,amcos
+C01779,Harambee Chick Peas AMCOS Ltd,Tabora,amcos
+C01780,Mavuno Neema Sesame AMCOS Ltd,Tabora,amcos
+C01781,Jitegemee Consumer Cooperative Society Ltd,Tabora,other
+C01782,Zawadi Tumaini Coffee AMCOS Ltd,Tabora,amcos
+C01783,Faraja Amka Cocoa AMCOS Ltd,Tabora,amcos
+C01784,Zawadi Dairy Cooperative Society Ltd,Tabora,other
+C01785,Mkombozi Nuru Fishing Cooperative Society Ltd,Tabora,other
+C01786,Tegemeo Sifa Tea AMCOS Ltd,Tabora,amcos
+C01787,Kijiji Kijani Youth Cooperative Society Ltd,Tabora,other
+C01788,Wavuvi Pigeon Peas AMCOS Ltd,Tabora,amcos
+C01789,Mapinduzi Pyrethrum AMCOS Ltd,Tabora,amcos
+C01790,Kijani Jua Mining Cooperative Society Ltd,Tabora,other
+C01791,Faraja Bidii Consumer Cooperative Society Ltd,Tabora,other
+C01792,Songa Livestock Cooperative Society Ltd,Tabora,other
+C01793,Furaha Sisal AMCOS Ltd,Tabora,amcos
+C01794,Mto Transport Cooperative Society Ltd,Tabora,other
+C01795,Ushindi Cashew AMCOS Ltd,Tabora,amcos
+C01796,Maendeleo Consumer Cooperative Society Ltd,Tabora,other
+C01797,Harambee Transport Cooperative Society Ltd,Tabora,other
+C01798,Subira Subira Cotton AMCOS Ltd,Tabora,amcos
+C01799,Nuru Vijana Sesame AMCOS Ltd,Tabora,amcos
+C01800,Chemchem Zawadi Sesame AMCOS Ltd,Tabora,amcos
+C01801,Mwangaza Transport Cooperative Society Ltd,Tabora,other
+C01802,Tafara Chick Peas AMCOS Ltd,Tabora,amcos
+C01803,Kijiji Women Cooperative Society Ltd,Tabora,other
+C01804,Msingi Shukrani Soybeans AMCOS Ltd,Tabora,amcos
+C01805,Mwanga Cocoa AMCOS Ltd,Tabora,amcos
+C01806,Wanawake Uhuru Cotton AMCOS Ltd,Tabora,amcos
+C01807,Amka Chick Peas AMCOS Ltd,Tabora,amcos
+C01808,Nuru Wafugaji Sisal AMCOS Ltd,Tabora,amcos
+C01809,Umoja Upendo Mining Cooperative Society Ltd,Tabora,other
+C01810,Azimio Wafugaji Sesame AMCOS Ltd,Tabora,amcos
+C01811,Msingi Green Gram AMCOS Ltd,Tabora,amcos
+C01812,Mshikamano Shukrani Cocoa AMCOS Ltd,Tabora,amcos
+C01813,Nguvu Bonde Transport Cooperative Society Ltd,Tabora,other
+C01814,Pamoja Nguvu Women Cooperative Society Ltd,Tabora,other
+C01815,Wafugaji Mlima Youth Cooperative Society Ltd,Tabora,other
+C01816,Kijiji Mining Cooperative Society Ltd,Tabora,other
+C01817,Mkombozi Ridhaa Sugarcane AMCOS Ltd,Tabora,amcos
+C01818,Harambee Youth Cooperative Society Ltd,Tabora,other
+C01819,Baraka Wafugaji Pyrethrum AMCOS Ltd,Tabora,amcos
+C01820,Ujamaa Mlima Tobacco AMCOS Ltd,Tabora,amcos
+C01821,Juhudi Sugarcane AMCOS Ltd,Tabora,amcos
+C01822,Heshima Ushindi Coffee AMCOS Ltd,Tabora,amcos
+C01823,Ridhaa Green Gram AMCOS Ltd,Tabora,amcos
+C01824,Jua Cotton AMCOS Ltd,Tabora,amcos
+C01825,Mkombozi Tumaini Sugarcane AMCOS Ltd,Tabora,amcos
+C01826,Tegemeo Sifa Mining Cooperative Society Ltd,Tabora,other
+C01827,Wavuvi Irrigation Cooperative Society Ltd,Tabora,other
+C01828,Vijana Umoja Women Cooperative Society Ltd,Tabora,other
+C01829,Ziwa Tegemeo Cotton AMCOS Ltd,Tabora,amcos
+C01830,Kijiji Green Gram AMCOS Ltd,Tabora,amcos
+C01831,Sifa Maize AMCOS Ltd,Tabora,amcos
+C01832,Tafara Cotton AMCOS Ltd,Tabora,amcos
+C01833,Ujamaa Fishing Cooperative Society Ltd,Tabora,other
+C01834,Wanawake Zawadi Tobacco AMCOS Ltd,Tabora,amcos
+C01835,Harambee Women Cooperative Society Ltd,Tabora,other
+C01836,Chemchem Mining Cooperative Society Ltd,Tabora,other
+C01837,Jua Umoja Dairy Cooperative Society Ltd,Tabora,other
+C01838,Subira Mining Cooperative Society Ltd,Tabora,other
+C01839,Mwangaza Shukrani Green Gram AMCOS Ltd,Tabora,amcos
+C01840,Maendeleo Mto Pyrethrum AMCOS Ltd,Tabora,amcos
+C01841,Chemchem Furaha SACCOS Ltd,Tabora,saccos
+C01842,Mlima Cotton AMCOS Ltd,Tabora,amcos
+C01843,Kilele Cashew AMCOS Ltd,Tabora,amcos
+C01844,Umoja Kijani Green Gram AMCOS Ltd,Tabora,amcos
+C01845,Umoja Msingi Pyrethrum AMCOS Ltd,Tabora,amcos
+C01846,Msingi Tunu Youth Cooperative Society Ltd,Tabora,other
+C01847,Mwangaza Pigeon Peas AMCOS Ltd,Tabora,amcos
+C01848,Zawadi Tea AMCOS Ltd,Tabora,amcos
+C01849,Kijiji Imani Cocoa AMCOS Ltd,Tabora,amcos
+C01850,Uhuru Livestock Cooperative Society Ltd,Tabora,other
+C01851,Maendeleo Sugarcane AMCOS Ltd,Tabora,amcos
+C01852,Nuru Mto Sisal AMCOS Ltd,Tabora,amcos
+C01853,Shukrani Mkombozi Transport Cooperative Society Ltd,Tabora,other
+C01854,Chemchem Msingi Maize AMCOS Ltd,Tabora,amcos
+C01855,Subira Women Cooperative Society Ltd,Tabora,other
+C01856,Subira Maendeleo Youth Cooperative Society Ltd,Tabora,other
+C01857,Azimio Mining Cooperative Society Ltd,Tabora,other
+C01858,Kilele Amka Sisal AMCOS Ltd,Tabora,amcos
+C01859,Mshikamano Jitegemee Cotton AMCOS Ltd,Tabora,amcos
+C01860,Imani Sesame AMCOS Ltd,Tabora,amcos
+C01861,Imani Tumaini Pyrethrum AMCOS Ltd,Tabora,amcos
+C01862,Juhudi Maize AMCOS Ltd,Tabora,amcos
+C01863,Bonde Maendeleo Cotton AMCOS Ltd,Tabora,amcos
+C01864,Tumaini Umoja Soybeans AMCOS Ltd,Tabora,amcos
+C01865,Bidii Chemchem Sesame AMCOS Ltd,Tabora,amcos
+C01866,Ushindi Pigeon Peas AMCOS Ltd,Tabora,amcos
+C01867,Kazi Maendeleo Cashew AMCOS Ltd,Tabora,amcos
+C01868,Vijana Sisal AMCOS Ltd,Tabora,amcos
+C01869,Kilimo Tegemeo Chick Peas AMCOS Ltd,Tabora,amcos
+C01870,Hazina Kijani Cocoa AMCOS Ltd,Tabora,amcos
+C01871,Mapinduzi Soybeans AMCOS Ltd,Tabora,amcos
+C01872,Uhuru Women Cooperative Society Ltd,Tabora,other
+C01873,Mavuno Wanawake Soybeans AMCOS Ltd,Tabora,amcos
+C01874,Wafugaji Women Cooperative Society Ltd,Tabora,other
+C01875,Tegemeo Cocoa AMCOS Ltd,Tabora,amcos
+C01876,Umoja Furaha Cashew AMCOS Ltd,Tabora,amcos
+C01877,Mbele Pyrethrum AMCOS Ltd,Tabora,amcos
+C01878,Heshima Kilimo Cocoa AMCOS Ltd,Tabora,amcos
+C01879,Heshima Subira Sisal AMCOS Ltd,Tabora,amcos
+C01880,Ridhaa Maendeleo SACCOS Ltd,Tabora,saccos
+C01881,Kijani Kilele Cashew AMCOS Ltd,Tabora,amcos
+C01882,Kijani Cashew AMCOS Ltd,Tabora,amcos
+C01883,Ushindi Livestock Cooperative Society Ltd,Tabora,other
+C01884,Ridhaa Coffee AMCOS Ltd,Tabora,amcos
+C01885,Kazi Chemchem Cocoa AMCOS Ltd,Tabora,amcos
+C01886,Pamoja Songa Sesame AMCOS Ltd,Tabora,amcos
+C01887,Msingi Cotton AMCOS Ltd,Tabora,amcos
+C01888,Amani Mbele Maize AMCOS Ltd,Tabora,amcos
+C01889,Mto Chick Peas AMCOS Ltd,Tabora,amcos
+C01890,Harambee Bonde Fishing Cooperative Society Ltd,Tabora,other
+C01891,Kijani Dairy Cooperative Society Ltd,Tabora,other
+C01892,Mkombozi Tegemeo SACCOS Ltd,Tabora,saccos
+C01893,Ridhaa Shukrani Dairy Cooperative Society Ltd,Tabora,other
+C01894,Jitegemee Neema Sisal AMCOS Ltd,Tabora,amcos
+C01895,Mkombozi Umoja Fishing Cooperative Society Ltd,Tabora,other
+C01896,Wafugaji Soybeans AMCOS Ltd,Tabora,amcos
+C01897,Neema Chemchem Irrigation Cooperative Society Ltd,Tabora,other
+C01898,Ridhaa Juhudi Coffee AMCOS Ltd,Tabora,amcos
+C01899,Tumaini Pyrethrum AMCOS Ltd,Tabora,amcos
+C01900,Maendeleo Upendo Cotton AMCOS Ltd,Tabora,amcos
+C01901,Heshima Fishing Cooperative Society Ltd,Tabora,other
+C01902,Msingi Maendeleo Cotton AMCOS Ltd,Tabora,amcos
+C01903,Mapinduzi Juhudi Tobacco AMCOS Ltd,Tabora,amcos
+C01904,Neema Cocoa AMCOS Ltd,Tabora,amcos
+C01905,Harambee Sisal AMCOS Ltd,Tabora,amcos
+C01906,Harambee Ziwa Consumer Cooperative Society Ltd,Tabora,other
+C01907,Ridhaa Mbele Tobacco AMCOS Ltd,Tabora,amcos
+C01908,Azimio Mshikamano Women Cooperative Society Ltd,Tabora,other
+C01909,Bidii Mwanga Irrigation Cooperative Society Ltd,Tabora,other
+C01910,Ridhaa Wanawake Soybeans AMCOS Ltd,Tabora,amcos
+C01911,Kilimo Bidii Women Cooperative Society Ltd,Tabora,other
+C01912,Chemchem Sugarcane AMCOS Ltd,Tabora,amcos
+C01913,Mlima Sifa Youth Cooperative Society Ltd,Tabora,other
+C01914,Msingi Transport Cooperative Society Ltd,Tabora,other
+C01915,Subira Tea AMCOS Ltd,Tabora,amcos
+C01916,Amani Cocoa AMCOS Ltd,Tabora,amcos
+C01917,Maendeleo Mapinduzi Tea AMCOS Ltd,Tabora,amcos
+C01918,Songa Pigeon Peas AMCOS Ltd,Tabora,amcos
+C01919,Ujamaa Ridhaa Soybeans AMCOS Ltd,Tabora,amcos
+C01920,Jitegemee Jua Transport Cooperative Society Ltd,Tabora,other
+C01921,Kijani Harambee Soybeans AMCOS Ltd,Tabora,amcos
+C01922,Mshikamano Baraka SACCOS Ltd,Tabora,saccos
+C01923,Shukrani Cocoa AMCOS Ltd,Tabora,amcos
+C01924,Shukrani Irrigation Cooperative Society Ltd,Tabora,other
+C01925,Nuru Heshima Cocoa AMCOS Ltd,Tabora,amcos
+C01926,Kilimo Cocoa AMCOS Ltd,Tabora,amcos
+C01927,Zawadi Kilele Maize AMCOS Ltd,Tabora,amcos
+C01928,Shukrani Jua Green Gram AMCOS Ltd,Tabora,amcos
+C01929,Bonde Women Cooperative Society Ltd,Tabora,other
+C01930,Tumaini Youth Cooperative Society Ltd,Tabora,other
+C01931,Kilimo Baraka Sugarcane AMCOS Ltd,Tabora,amcos
+C01932,Amka Subira Pyrethrum AMCOS Ltd,Tanga,amcos
+C01933,Ushindi Mkombozi SACCOS Ltd,Tanga,saccos
+C01934,Tafara Imani Cashew AMCOS Ltd,Tanga,amcos
+C01935,Subira Wanawake Sesame AMCOS Ltd,Tanga,amcos
+C01936,Mapinduzi Mining Cooperative Society Ltd,Tanga,other
+C01937,Imani Faraja Women Cooperative Society Ltd,Tanga,other
+C01938,Zawadi Sugarcane AMCOS Ltd,Tanga,amcos
+C01939,Mshikamano Azimio Sesame AMCOS Ltd,Tanga,amcos
+C01940,Mto Fishing Cooperative Society Ltd,Tanga,other
+C01941,Kijiji Furaha Women Cooperative Society Ltd,Tanga,other
+C01942,Tunu Azimio SACCOS Ltd,Tanga,saccos
+C01943,Subira Kilele Cocoa AMCOS Ltd,Tanga,amcos
+C01944,Umoja Songa Tea AMCOS Ltd,Tanga,amcos
+C01945,Mavuno Kilimo Green Gram AMCOS Ltd,Tanga,amcos
+C01946,Neema Kijiji Livestock Cooperative Society Ltd,Tanga,other
+C01947,Msingi Amka Maize AMCOS Ltd,Tanga,amcos
+C01948,Kazi Ujamaa Cotton AMCOS Ltd,Tanga,amcos
+C01949,Mbele Sesame AMCOS Ltd,Tanga,amcos
+C01950,Bonde Azimio SACCOS Ltd,Tanga,saccos
+C01951,Ushindi Uhuru Tea AMCOS Ltd,Tanga,amcos
+C01952,Baraka Songa Chick Peas AMCOS Ltd,Tanga,amcos
+C01953,Kijani Faraja Youth Cooperative Society Ltd,Tanga,other
+C01954,Faraja Bidii Sesame AMCOS Ltd,Tanga,amcos
+C01955,Msingi Zawadi Cotton AMCOS Ltd,Tanga,amcos
+C01956,Pamoja Mshikamano Women Cooperative Society Ltd,Tanga,other
+C01957,Mlima Wanawake SACCOS Ltd,Tanga,saccos
+C01958,Sifa Pigeon Peas AMCOS Ltd,Tanga,amcos
+C01959,Furaha Songa SACCOS Ltd,Tanga,saccos
+C01960,Mwangaza Baraka Chick Peas AMCOS Ltd,Tanga,amcos
+C01961,Tafara Maize AMCOS Ltd,Tanga,amcos
+C01962,Wakulima Nguvu SACCOS Ltd,Tanga,saccos
+C01963,Tumaini Harambee Sugarcane AMCOS Ltd,Tanga,amcos
+C01964,Umoja Youth Cooperative Society Ltd,Tanga,other
+C01965,Bidii Housing Cooperative Society Ltd,Tanga,other
+C01966,Umoja Pamoja Irrigation Cooperative Society Ltd,Tanga,other
+C01967,Songa Azimio Transport Cooperative Society Ltd,Tanga,other
+C01968,Mwanga Irrigation Cooperative Society Ltd,Tanga,other
+C01969,Tegemeo Furaha Consumer Cooperative Society Ltd,Tanga,other
+C01970,Bonde Green Gram AMCOS Ltd,Tanga,amcos
+C01971,Juhudi Mwangaza Green Gram AMCOS Ltd,Tanga,amcos
+C01972,Mlima Kilele Fishing Cooperative Society Ltd,Tanga,other
+C01973,Bonde Ujamaa SACCOS Ltd,Tanga,saccos
+C01974,Ziwa Ujamaa SACCOS Ltd,Tanga,saccos
+C01975,Mbele Tobacco AMCOS Ltd,Tanga,amcos
+C01976,Azimio Cashew AMCOS Ltd,Tanga,amcos
+C01977,Ujamaa Amani SACCOS Ltd,Tanga,saccos
+C01978,Mkombozi Uhuru Transport Cooperative Society Ltd,Tanga,other
+C01979,Subira Sesame AMCOS Ltd,Tanga,amcos
+C01980,Kijani Bidii Maize AMCOS Ltd,Tanga,amcos
+C01981,Heshima Sifa SACCOS Ltd,Tanga,saccos
+C01982,Maendeleo Livestock Cooperative Society Ltd,Tanga,other
+C01983,Shukrani Youth Cooperative Society Ltd,Tanga,other
+C01984,Neema Harambee SACCOS Ltd,Tanga,saccos
+C01985,Tegemeo Kijani SACCOS Ltd,Tanga,saccos
+C01986,Ziwa Neema Dairy Cooperative Society Ltd,Tanga,other
+C01987,Mlima Fishing Cooperative Society Ltd,Tanga,other
+C01988,Msingi Youth Cooperative Society Ltd,Tanga,other
+C01989,Faraja Azimio SACCOS Ltd,Tanga,saccos
+C01990,Baraka Coffee AMCOS Ltd,Tanga,amcos
+C01991,Sifa Tafara SACCOS Ltd,Tanga,saccos
+C01992,Upendo Juhudi Irrigation Cooperative Society Ltd,Tanga,other
+C01993,Mkombozi Amani Sugarcane AMCOS Ltd,Tanga,amcos
+C01994,Mshikamano Kazi SACCOS Ltd,Tanga,saccos
+C01995,Furaha Jitegemee SACCOS Ltd,Tanga,saccos

@@ -1,0 +1,6 @@
+method,top1,top3,top5,MRR
+Logistic Regression,0.9775,0.99,0.99,0.9835
+Random Forest,0.985,0.9975,0.9975,0.9908
+Gradient Boosting,0.9825,0.9975,0.9975,0.99
+TF-IDF only,0.9125,0.975,0.9775,0.9445
+Exact match (normalised),0.1625,0.1625,0.1625,0.1625
